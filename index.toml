@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "af6708e21dd2a74dbe0f2ef5e08143023cd96493f49afa21bfd7633a02f466f8"
+hash = "8baa4174662b93a9e2e177a4cb937565b5e1f54aaa498cd9e2a5305c14892686"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4d8fdde4ced1a6b9db12a9a101cf2c6dd45bde867acd9156ffae2e2b84e9be63"
+hash = "f8a26df27fe9676b6267677155a6f030a4856beff5ae4fee8f21c3f3d44a98d9"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+hash = "2bd6bb34cc34e9010c35d30ef21e71fa63386c6a7b2bbe16f7c1369db10c693f"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
@@ -77,22 +77,22 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dc27377674c79509779c7b17d7db80748d9636c5d639b0e5f67f90b45f1a8e5"
+hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8a2f7bd4e0b892213e121ace77cbe399351a8c9d1ce12a8dc13973d9ec7a50dc"
+hash = "3271fc1c210bc8c2dcd1cd58d80c683f4f7e6a3077c079920054b4483dcbcb33"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+hash = "4f83b1ed4b7b6c60db39a22a2f9b4c30ead0f475e27c6e98f0a16e69564269eb"
 metafile = true
 
 [[files]]
