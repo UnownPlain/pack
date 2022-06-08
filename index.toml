@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".gitingore"
+hash = "c66fac0bae78e181c25387062f333b274b8549b1b3fe1b1f7147be83c2590900"
+
+[[files]]
 file = "README.md"
 hash = "724c832adfeed6c8b05bcdaa89e2dff4d78439bdf3385ff3752b072eba618d7d"
 
@@ -11,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "07dc8b6b90eb549554a26a111f05b54e8459dd8150f5f3c146a05c3400b7c7ff"
+hash = "96a3463c6b05867e7ed2cf98bd7faed2b8d190913d9d8f9b551bbae6eab8efe4"
 metafile = true
 
 [[files]]
@@ -30,13 +34,8 @@ hash = "478f43341248346118765f37013fa8d595b9f66aeb3a681146afb29731b4f8f7"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f8a26df27fe9676b6267677155a6f030a4856beff5ae4fee8f21c3f3d44a98d9"
+hash = "e6c2096ab51783e86b5dd740b176c2a1d2409337bf18ba7de87fcd767e7157e5"
 metafile = true
 
 [[files]]
