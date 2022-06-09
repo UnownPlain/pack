@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitingore"
-hash = "c66fac0bae78e181c25387062f333b274b8549b1b3fe1b1f7147be83c2590900"
-
-[[files]]
 file = "README.md"
 hash = "724c832adfeed6c8b05bcdaa89e2dff4d78439bdf3385ff3752b072eba618d7d"
 
@@ -40,12 +36,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
+hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "502cd535f6cda8e1e0b0cf83a785e8d8f5702f18b8902ae0c765952d8cfe0b4a"
+hash = "8f6d91704fd94ce9194b84290e1ea812709ada7f7632a5a7f850cb3263d7daab"
 metafile = true
 
 [[files]]
@@ -55,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "77f83db2fae27b75a36910d16d01e4d483d2231de3fc68d2a634eb93ec2de7c5"
+hash = "94690110840b6ac0d257ce753a5d2ef91f85762d7eab874a6ab1922c4d504ce5"
 metafile = true
 
 [[files]]
@@ -65,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
 metafile = true
 
 [[files]]
