@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "724c832adfeed6c8b05bcdaa89e2dff4d78439bdf3385ff3752b072eba618d7d"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "727085e1657eac8af080db2ff6d7b9c9956b98705113b45139c38e23cd73c20e"
 metafile = true
