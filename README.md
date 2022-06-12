@@ -6,24 +6,24 @@
 A fabric modpack for Minecraft mods I use.
 
 ## List of mods
-- Cloth Config
-- Continuity
-- Cull Leaves
-- Dynamic FPS
-- Enhanced Block Entities
-- EntityCulling
-- Fabric API
-- FerriteCore
-- Indium
-- Krypton
-- LambDynamicLights
-- LazyDFU
-- Lithium
-- MaLiLib
-- MiniHUD
-- Mod Menu
-- Sodium
-- Sodium Extra
-- Starlight
-- Tweakeroo
-- WorldEditCUI
+- [Cloth Config](https://modrinth.com/mod/cloth-config) by [shedaniel](https://modrinth.com/user/shedaniel) (Configuration Library for Minecraft Mods.)
+- [Continuity](https://modrinth.com/mod/continuity) by [peppercode1](https://modrinth.com/user/peppercode1) (Mod that allows for efficient connected textures.)
+- [Cull Leaves](https://modrinth.com/mod/cull-leaves) by [Motschen](https://modrinth.com/user/Motschen) (Adds culling to leaf blocks, providing a huge performance boost over vanilla.)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by [juliand665](https://modrinth.com/user/juliand665) (Improve performance when Minecraft is in the background.)
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by [FoundationGames](https://modrinth.com/user/FoundationGames) (Reduce FPS lag with block entities, as well as customize them with resource packs.)
+- [EntityCulling](https://modrinth.com/mod/entityculling) by [tr7zw](https://modrinth.com/user/tr7zw) (Uses async path-tracing to hide Block-/Entities that are not visible.)
+- [Fabric API](https://modrinth.com/mod/fabric-api) by [Fabric Team](https://github.com/FabricMC/fabric) (Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) by [malte0811](https://modrinth.com/user/malte0811) (Memory usage optimizations.)
+- [Indium](https://modrinth.com/mod/indium) by [comp500](https://modrinth.com/user/comp500) (Sodium addon providing support for the Fabric Rendering API, based on Indigo.)
+- [Krypton](https://modrinth.com/mod/krypton) by [astei](https://modrinth.com/user/astei) (A mod to ptimize the Minecraft networking stack.)
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by [LambdAurora](https://modrinth.com/user/LambdAurora) (A dynamic lights mod.)
+- [LazyDFU](https://modrinth.com/mod/lazydfu) by [astei](https://modrinth.com/user/astei) (Makes the game boot faster by deferring non-essential initialization.)
+- [Lithium](https://modrinth.com/mod/lithium) by [CaffeineMC](https://github.com/CaffeineMC) (No-compromises game logic/server optimization mod.)
+- [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) by [maruohon](https://github.com/maruohon) (A library mod required for masa's client-side mods.)
+- [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) by [maruohon](https://github.com/maruohon) (A "mini F3" HUD mod, with light level, spawn & slime chunk overlays etc.)
+- [Mod Menu](https://modrinth.com/mod/modmenu) by [TerraformersMC](https://github.com/TerraformersMC) (Adds a mod menu to view the list of mods you have installed.)
+- [Sodium](https://modrinth.com/mod/sodium) by [CaffeineMC](https://github.com/CaffeineMC) (Modern rendering engine and client-side optimization mod.)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) by [FlashyReese](https://modrinth.com/user/FlashyReese) (Features that shouldn't be in Sodium.)
+- [Starlight](https://modrinth.com/mod/starlight) by [Spottedleaf](https://modrinth.com/user/spottedleaf) (Rewrites the light engine to fix lighting performance and lighting errors.)
+- [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) by [maruohon](https://github.com/maruohon) (Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc.)
+- [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) by [EngineHub](https://github.com/EngineHub) (A graphical user interface for WorldEdit.)
