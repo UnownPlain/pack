@@ -11,6 +11,7 @@ A fabric modpack for Minecraft mods I use.
 - Cull Leaves
 - Dynamic FPS
 - Enhanced Block Entities
+- EntityCulling
 - Fabric API
 - FerriteCore
 - Indium
