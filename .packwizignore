@@ -99,3 +99,6 @@ $RECYCLE.BIN/
 
 # Exclude README
 /README.md
+
+# Exculde LICENSE
+/LICENSE
