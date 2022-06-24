@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "9e4c2872aecd1ddeac2c6e3173b5013dbe5fb74b3f4bb7b33eccdd5efda283a4"
+hash = "073bff49ec9e664b669794177329cfbeef3c3d91d5c0660cd01144a640e0338b"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48940c3d311a2c814001ca89a4c2cb52274c8e698d6409457487b3f533c7ac6f"
+hash = "0f250ee12d204d8359a3326316a7f1ccb61b9b9ca0ef5511ed1fd3d2c152bcea"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e053654a7b3c9dc4f09eaf3e841b7bac22a11075f847ef22d8fe02ad266a19fb"
+hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
