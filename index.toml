@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
+hash = "e7986bc23e319e750e19139d68f1facec6df41d98d51d417293c5c1434e7f845"
 metafile = true
 
 [[files]]
@@ -102,5 +102,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "d662f0e5aae916336830c1dfd1087b664e45676cafc02f7f2d892abf692ebf30"
+hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
 metafile = true
