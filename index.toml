@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".nojekyll"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "85ebb0df9d958fede547f04d88b59d71284e919a27f152f60b3c03563cac22f5"
 metafile = true

@@ -102,3 +102,6 @@ $RECYCLE.BIN/
 
 # Exculde LICENSE
 /LICENSE
+
+# Exculde .nojekyll
+/.nojekyll
