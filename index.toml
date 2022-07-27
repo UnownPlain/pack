@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "85ebb0df9d958fede547f04d88b59d71284e919a27f152f60b3c03563cac22f5"
 metafile = true
@@ -32,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a88532bd2a65cf091bf8bcea4d7893268dca50105284b862a8ab7c6fa8befdcd"
+hash = "cf34c90da0df37a62ace8ed394e598d0bace050b171309817b053afd7cbe37b9"
 metafile = true
 
 [[files]]
@@ -77,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "dfa5c722d138df87aafa11fee3b7566b0fcff8adf155eed9f478d08436ec9f9f"
+hash = "cc155b5e9e34564818639b6228cf6f651fe2f7f0d9c891728aba491fd9fe704c"
 metafile = true
 
 [[files]]
