@@ -12,3 +12,6 @@ mode = ""
 [update.modrinth]
 mod-id = "uXXizFIs"
 version = "7epbwkFg"
+
+[option]
+optional = true

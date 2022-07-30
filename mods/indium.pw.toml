@@ -12,3 +12,6 @@ mode = ""
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "H4bOnadw"
+
+[option]
+optional = true

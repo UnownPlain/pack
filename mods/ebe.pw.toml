@@ -12,3 +12,6 @@ mode = ""
 [update.modrinth]
 mod-id = "OVuFYfre"
 version = "s76PBY7D"
+
+[option]
+optional = true
