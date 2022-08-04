@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "b9db2578c2ded5504b1fb94113f292c27f7e288caa45560dfa7774af98227cd6"
+hash = "aae0929e982fa5475516e955eeaba9098f5b69d115bfdf0d7a6da5b3b1d82962"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "111a96b9e659e550ecf7a5fa41164e55173729ea7066700d8b9f632f585079e4"
+hash = "8f493386f0a4c62dd2cc641dd75d34c1cff05f482a11b14adee78ce3d714acb3"
 metafile = true
 
 [[files]]
@@ -97,10 +97,5 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2aebe41baccefde8abd0c270e2d607d7a89181500a5c57987be36f5d96e04413"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "a801cd81b22a5963bb06029f1834615c86515635f01db6f8382f3ec45895953b"
+hash = "79f45ddab1600de1cca6b16879e015304468b21b28aed0c9a821a0ec6b44b9d8"
 metafile = true
