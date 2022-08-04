@@ -1,0 +1,16 @@
+name = "Pack"
+author = "UnownPlain"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0396f8d3d194dcfdd2d5e515244d849a17dc4d96b4df1ef33cbc79e735c8c929"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = ["1.17", "1.17.1"]
