@@ -13,7 +13,10 @@ A fabric modpack for Minecraft mods I use.
   3. Click Edit Instance -> Settings -> Custom commands, then check the Custom Commands box paste the following command into the pre-launch command field: `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://unownplain.github.io/{MCVERSION}/pack.toml` *(Replace {MCVERSION} with a version from 1.17.1 to 1.19.1)*
   4. When you first lanuch and the packwiz installer window comes up, click optional mods, select the ones you want and click ok
 
-When launching Minecraft, your lancher should update your mods.
+When launching Minecraft, your launcher should update your mods.
+
+### Other launchers that support Modrinth packs
+Download the modpack file for your Minecraft version [here](https://github.com/UnownPlain/pack/releases)
 
 ## List of mods
 
@@ -39,4 +42,4 @@ When launching Minecraft, your lancher should update your mods.
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra)                            | Features that shouldn't be in Sodium.                                                                                           | [FlashyReese](https://modrinth.com/user/FlashyReese)         |
 | [Starlight](https://modrinth.com/mod/starlight)                                  | Rewrites the light engine to fix lighting performance and lighting errors.                                                      | [Spottedleaf](https://modrinth.com/user/spottedleaf)         |
 | [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo)              | Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc.                         | [maruohon](https://github.com/maruohon)                      |
-| [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) | A graphical user interface for WorldEdit.                                                                                       | [EngineHub](https://github.com/EngineHub)                    |
+| [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) | A graphical user interface for WorldEdit. (Not available on 1.17.1)                                                             | [EngineHub](https://github.com/EngineHub)                    |
