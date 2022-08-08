@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cf10dac9063c9feb6e235f77f5af614e080fd3de319dfbf1f1e237ad09d0cfe"
+hash = "b42b55b8554a7bae3227ddbdf55dbda393528f76373e875fcc3e75cd222b0b3f"
 metafile = true
 
 [[files]]
@@ -62,22 +62,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ea6cf94bab342da92e6dad9fb69bf6a9bf44bce3a935e5be079197f8f8efe309"
+hash = "abab29b99f06bdc9e7c139551503d0751e39e0aa80ca88ad884ab4c62b52c191"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "b9db2578c2ded5504b1fb94113f292c27f7e288caa45560dfa7774af98227cd6"
+hash = "1ab12104a00c883045e89ec9711c34f8b1f146415c1030fa509fe0f07007457c"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "111a96b9e659e550ecf7a5fa41164e55173729ea7066700d8b9f632f585079e4"
+hash = "ba16891fe3784cf9b8b5937d2c0f87508534b165426fe665d46f720cf8106d19"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a81ae522b54d2735e875c7f229799047025f77104c0ab57a7f1e88edd29315d4"
+hash = "ca2ec558fae7705bc86d4bda1e35519c0a88f88dafa5cee0510a519d08dcc2c2"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2aebe41baccefde8abd0c270e2d607d7a89181500a5c57987be36f5d96e04413"
+hash = "95944415ac36235acc23c464247dd2976fe7c85ee67f396e929669e2a6ec6071"
 metafile = true
 
 [[files]]
