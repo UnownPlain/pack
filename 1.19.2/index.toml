@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "9f7368b0675a55be6b33a59d0aef14c5db7fc5b40cd0b249af3c685a4660bb00"
+hash = "83aa54263ca0645c8c802673e913ffdefcad67b19ba5f6cc342019e4e2c5aed1"
 metafile = true
 
 [[files]]
