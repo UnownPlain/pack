@@ -7,7 +7,7 @@ A fabric modpack for Minecraft mods I use.
 
 ## Installation
 
-### MultiMC & PolyMC
+### MultiMC & Prism Launcher
   1. Download packwiz-installer-bootstrap from [here](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and put it in you instance's `.minecraft` folder.
   2. If you are using an existing instance, delete all the mods in it
   3. Click Edit Instance -> Settings -> Custom commands, then check the Custom Commands box paste the following command into the pre-launch command field: `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://unownplain.github.io/{MCVERSION}/pack.toml` *(Replace {MCVERSION} with one of these versions: 1.17.1, 1.18.2, 1.19.2)*
