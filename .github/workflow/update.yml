@@ -1,0 +1,28 @@
+name: Update Mods
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  Update-mods:
+    name: Update mods
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+      - name: Update mods
+        run: |
+          chmod +x packwiz
+          cd 1.19.2
+          /home/runner/work/pack/pack/packwiz update --all -y
+      - name: Commit changes, if any
+        run: |
+          if [[ -n $(git diff) ]]; then
+            git config user.name "UnownPlainBot"
+            git config user.email "117042034+UnownPlainBot@users.noreply.github.com"
+            git add .
+            git commit -m "Update mods"
+            git push origin main
+          fi
