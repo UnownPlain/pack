@@ -1,12 +1,12 @@
 name = "Pack"
 author = "UnownPlain"
-version = "1.0.0"
+version = "1.18.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6bb35a74b9c4b08f6c06555ea612cb537abafbd41add85dbdbcb684d9df7aed3"
+hash = "10dbb8fe7004b8b3352c52b9df35fc3e378a6c454c9192e7f907c7e027714555"
 
 [versions]
 fabric = "0.14.8"

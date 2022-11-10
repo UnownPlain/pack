@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a15f747a558e91bdf88ce78c4105b0dd85847d2cfd3c7c0e77c582a343893881"
+hash = "6c27d99b7713b76b25b87d236436fbfd3d99a29bdc7a07bcc181c3329fdc44fa"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "08327e455da2b9d1b6f2a11cbfcf69fffc2ac60f59b4deb4f5dba662741479d7"
+hash = "c403a32f2852ad7493dca63d7f4da4bbeff0eb9e6c2f20f3cfa87c3c37aa24e9"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d914928528c8951c9eae1bd67b89cd04fef2b8eb9f8f5a321cd484704fec269b"
+hash = "fc142dae6dbe0032cd06df244b7c0c2cd86b74c348513e75ab9a91232e4436bc"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ab7899c7fff87f8f7a35019e3402c2fed630e8610cb2372dc3255ce75155fb78"
+hash = "ac63a214ed7a16eaff85d9ef4a49b1bc755cd1c5a0bbf3a6a17f48c95de664a6"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b592c13328e076a527e89c2dec45b2ed496109a2adb5429d5ebde0f3cbaf2a31"
+hash = "1117af68fdc1e63a9d527a082d33285431bf8338aa691832d69a71155381e15c"
 metafile = true
 
 [[files]]
