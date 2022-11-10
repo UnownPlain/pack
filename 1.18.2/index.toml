@@ -41,6 +41,11 @@ hash = "12a09792bc6567593cc69a48e517da38782b84b3d9cb6e9cfa3885fa4c96789a"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "b778b9fa2776520d229083be6ce7597d66964423cc1a5f8b212bdea72365f417"
 metafile = true
