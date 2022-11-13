@@ -12,11 +12,22 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
-      - name: Update mods
+      - name: Update mods (1.19.2)
         run: |
           chmod +x packwiz
           cd 1.19.2
           /home/runner/work/pack/pack/packwiz update --all -y
+          cd ..
+      - name: Update mods (1.18.2)
+        run: |
+          cd 1.18.2
+          /home/runner/work/pack/pack/packwiz update --all -y
+          cd ..
+      - name: Update mods (1.17.1)
+        run: |
+          cd 1.17.1
+          /home/runner/work/pack/pack/packwiz update --all -y
+          cd ..
       - name: Commit changes, if any
         run: |
           if [[ -n $(git diff) ]]; then
