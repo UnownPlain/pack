@@ -1,4 +1,4 @@
-name = "Pack"
+name = "UnownPlain's Modpack"
 author = "UnownPlain"
 version = "1.18.2"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2b159370264f4f3f3c8db7f5624521aa2acb13040e927d4ac02cb18ab6699af6"
+hash = "10281ca9c78b83cf7f71460d9f010c46bc03779e09a7d7e80324d733a814c62e"
 
 [versions]
 fabric = "0.14.8"

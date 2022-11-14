@@ -71,6 +71,11 @@ hash = "aae0929e982fa5475516e955eeaba9098f5b69d115bfdf0d7a6da5b3b1d82962"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "85a872e9757226eb2a15bea121651b8ffc3eeff3de0d22504bbdf0fa0c9ce3c8"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "8f493386f0a4c62dd2cc641dd75d34c1cff05f482a11b14adee78ce3d714acb3"
 metafile = true

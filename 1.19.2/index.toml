@@ -16,6 +16,11 @@ hash = "53268150e06cee42889c4fc5afb3f8ca356bad5e709c979816f12844048ba694"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2c525ec27281257513af9f6f7ae5323b4bbad813e2c1871983655583bcd6de57"
 metafile = true
@@ -31,6 +36,11 @@ hash = "c8be0e39e80121c0cf8b23c0670dc20a797ae75137ae89e6b65540c288427307"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dde1c7adb9b4deb532e1b7d92e0067255a16d753cfca513ebb8178637e1ef150"
 metafile = true
@@ -41,8 +51,8 @@ hash = "b8770d06faf1589d3522fab24f6342c27a761aff6e9c6b664b5f59c26927aed5"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+file = "mods/immediatelyfast.pw.toml"
+hash = "c288cf990690ddd6d3aa44373c7d7293a84cadd0c3249204df22a1b257e417e3"
 metafile = true
 
 [[files]]
@@ -73,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "1ab12104a00c883045e89ec9711c34f8b1f146415c1030fa509fe0f07007457c"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
 
 [[files]]
@@ -108,4 +123,9 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "bc3a137091eeea90868c0959f6fc1b91a24f169315c23b453a8ea47326eb75cd"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3ad339b78b648c3a9f1d938ec24fa0933e2eeebfb1b814a4be66185c91ac2d39"
 metafile = true

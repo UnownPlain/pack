@@ -16,6 +16,11 @@ hash = "0c294647b4c0a1e3a59ca64198b1a84494bf636a52761f012bef3c953cd6dd4d"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a7dc0cea4cc31ac58e0eb0d3dc8df234a5241882f5050693e5dc81b23bf92017"
 metafile = true
@@ -31,6 +36,11 @@ hash = "6400bce3508c3f0aa460d11b58e4be85f8c2dc8486f518197b58d7af101faf54"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fc142dae6dbe0032cd06df244b7c0c2cd86b74c348513e75ab9a91232e4436bc"
 metafile = true
@@ -38,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "12a09792bc6567593cc69a48e517da38782b84b3d9cb6e9cfa3885fa4c96789a"
-metafile = true
-
-[[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "b9db2578c2ded5504b1fb94113f292c27f7e288caa45560dfa7774af98227cd6"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
 metafile = true
 
 [[files]]
