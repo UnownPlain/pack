@@ -12,21 +12,27 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
+      - name: Setup Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18'
+          check-latest: true
+      - name: Download Packwiz
+        run: go install github.com/packwiz/packwiz@latest
       - name: Update mods (1.19.2)
         run: |
-          chmod +x packwiz
           cd 1.19.2
-          /home/runner/work/pack/pack/packwiz update --all -y
+          packwiz update --all -y
           cd ..
       - name: Update mods (1.18.2)
         run: |
           cd 1.18.2
-          /home/runner/work/pack/pack/packwiz update --all -y
+          packwiz update --all -y
           cd ..
       - name: Update mods (1.17.1)
         run: |
           cd 1.17.1
-          /home/runner/work/pack/pack/packwiz update --all -y
+          packwiz update --all -y
           cd ..
       - name: Commit changes, if any
         run: |
