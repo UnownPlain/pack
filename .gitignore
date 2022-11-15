@@ -96,3 +96,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# .mrpack fiels
+*.mrpack
