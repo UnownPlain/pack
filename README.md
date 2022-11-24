@@ -29,17 +29,21 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Cloth Config](https://modrinth.com/mod/cloth-config) | Configuration Library for Minecraft Mods. | [shedaniel](https://modrinth.com/user/shedaniel) |
 | [Continuity](https://modrinth.com/mod/continuity) | Mod that allows for efficient connected textures. | [peppercode1](https://modrinth.com/user/peppercode1) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Adds culling to leaf blocks, providing a huge performance boost over vanilla. | [Motschen](https://modrinth.com/user/Motschen) |
+| [Debugify](https://modrinth.com/mod/debugify) | Fixes Minecraft bugs found on the bug tracker. (Not available on 1.17.1) | [isxander](https://modrinth.com/user/isxander) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Improve performance when Minecraft is in the background. | [juliand665](https://modrinth.com/user/juliand665) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce FPS lag with block entities, as well as customize them with resource packs. | [FoundationGames](https://modrinth.com/user/FoundationGames) |
 | [EntityCulling](https://modrinth.com/mod/entityculling) | Uses async path-tracing to hide Block-/Entities that are not visible. | [tr7zw](https://modrinth.com/user/tr7zw) |
+| [Exordium](https://modrinth.com/mod/exordium) | Render the GUI and screens at a lower framerate to speed up worldrendering. (Not avaliable on 1.17.1) | [tr7zw](https://modrinth.com/user/tr7zw) |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [Fabric Team](https://github.com/FabricMC/fabric) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations. | [malte0811](https://modrinth.com/user/malte0811) |
+| [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft. (Not available for 1.17.1 and 1.18.2) | [RaphiMC](https://modrinth.com/user/RaphiMC) |
 | [Indium](https://modrinth.com/mod/indium) | Sodium addon providing support for the Fabric Rendering API, based on Indigo. | [comp500](https://modrinth.com/user/comp500) |
 | [Krypton](https://modrinth.com/mod/krypton) | A mod to ptimize the Minecraft networking stack. | [astei](https://modrinth.com/user/astei) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | A dynamic lights mod. | [LambdAurora](https://modrinth.com/user/LambdAurora) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | Makes the game boot faster by deferring non-essential initialization. | [astei](https://modrinth.com/user/astei) |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic/server optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | A library mod required for masa's client-side mods. | [maruohon](https://github.com/maruohon) |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server. | [fxmorin](https://modrinth.com/user/fxmorin) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | A "mini F3" HUD mod, with light level, spawn & slime chunk overlays etc. | [maruohon](https://github.com/maruohon) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Adds a mod menu to view the list of mods you have installed. | [TerraformersMC](https://github.com/TerraformersMC) |
 | [Sodium](https://modrinth.com/mod/sodium) | Modern rendering engine and client-side optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
@@ -47,3 +51,4 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Starlight](https://modrinth.com/mod/starlight) | Rewrites the light engine to fix lighting performance and lighting errors. | [Spottedleaf](https://modrinth.com/user/spottedleaf) |
 | [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc. | [maruohon](https://github.com/maruohon) |
 | [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) | A graphical user interface for WorldEdit. (Not available on 1.17.1) | [EngineHub](https://github.com/EngineHub) |
+| [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | A builder-based configuration library for Minecraft. (Not needed on 1.18.2 and 1.17.1) | [isxander](https://modrinth.com/user/isxander) |
