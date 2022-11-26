@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+hash = "586641a14fc28a0f84a78e1e466f798860b697b5793176ee0c3b95b83e975727"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+hash = "1810608adc79d0462ce49b4dac91329493b29cad2284dee73c8573b59667075d"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "b8770d06faf1589d3522fab24f6342c27a761aff6e9c6b664b5f59c26927aed5"
+hash = "ea1f2e3162ae9bc8507f1efae91abc39b14efde739d4780ac325677c0416457d"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c288cf990690ddd6d3aa44373c7d7293a84cadd0c3249204df22a1b257e417e3"
+hash = "d6273a63e590a383e2bd7b8030f872f2250540ff0bc8fb2a259543294e498d82"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "e44244c36054febb004859fc43728483dc1302e64b7e0be448dad04f235e43d2"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "d57d940f6092cdf33d304eed3303c43eb6027646f12dd8036aa923f2384d7877"
 metafile = true

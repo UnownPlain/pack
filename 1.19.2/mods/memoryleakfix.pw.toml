@@ -11,3 +11,6 @@ hash = "9ef7b93df46b599f96d8c0dba32753373e5e8a1a"
 [update.modrinth]
 mod-id = "NRjRiSSD"
 version = "tlLtHh1w"
+
+[option]
+optional = true
