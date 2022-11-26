@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4595621a88c273e5d0ab70dae5866d323122f449c668a667640ee79fbc6063f2"
+hash = "6acc9c58739a8bf628540ceb14076cda14e3193393b075a1790c62c61396f63d"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
+hash = "00e5970d49868e53365caa0dde292bc81674a1d1b3dd40625b571a70a22e11cc"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
+hash = "a512b1ff97d29d5ff5b4551ec555d49d07c35fca809e161a3db2dc0febd3c178"
 metafile = true
 
 [[files]]
