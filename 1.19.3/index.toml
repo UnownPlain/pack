@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "72b77981765d50e96e7aa07f95b10eaf942d28dc9037aa97a1b63e7c77207f5f"
+hash = "0ba6c99754716a63aa5298f70b782bbbc1fd1965acb2d947e3b3fad19541ac45"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c5edd957282f43a9e8986b76ac582ab1cf9ef994d2d4e8a06f4acb0f6ffa4467"
+hash = "ff4c8b8e1776e2d330b24cfb741a9efd9019aef6d4658302a485fe1a840f3318"
 metafile = true
 
 [[files]]
