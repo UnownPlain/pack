@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "bc87b5e611c1ed4efef99a9cc57bfcd251b3b2b93fba05287962cfb86ea6f764"
+hash = "4a35763fa981ec2bcfd37141e1a27e5f3d795c9bd337e804f3871691e7bb229f"
 metafile = true
 
 [[files]]
