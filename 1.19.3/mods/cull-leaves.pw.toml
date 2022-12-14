@@ -1,16 +1,16 @@
 name = "Cull Leaves"
-filename = "cullleaves-fabric-3.0.1.jar"
+filename = "cullleaves-fabric-3.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/EqasvEFc/cullleaves-fabric-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/lCHUsf1r/cullleaves-fabric-3.0.2.jar"
 hash-format = "sha1"
-hash = "6dc040a4fd2de8acb3ad37121710fc1e6d0843e9"
+hash = "7750bc281f80d3769a42e42d94a5a0a055ba3698"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "EqasvEFc"
+version = "lCHUsf1r"
 
 [option]
 optional = true
