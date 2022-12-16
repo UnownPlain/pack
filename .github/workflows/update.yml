@@ -42,8 +42,8 @@ jobs:
       - name: Commit changes, if any
         run: |
           if [[ -n $(git diff) ]]; then
-            git config user.name "UnownPlainBot"
-            git config user.email "117042034+UnownPlainBot@users.noreply.github.com"
+            git config user.name "UnownBot"
+            git config user.email "gitbot@unownplain.ml"
             git add .
             git commit -m "Update mods"
             git push origin main
