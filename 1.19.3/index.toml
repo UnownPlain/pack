@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "586641a14fc28a0f84a78e1e466f798860b697b5793176ee0c3b95b83e975727"
+hash = "48581864406359d8fbdc4d8b01b4622be34355ef3315ec69ce31651eb1edc57a"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c8be0e39e80121c0cf8b23c0670dc20a797ae75137ae89e6b65540c288427307"
+hash = "f45d7061070d94b0f2e808100243ceffc9ff0a58f0e1fa70d029316096c8df87"
 metafile = true
 
 [[files]]
