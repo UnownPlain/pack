@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "1fb8bb5e9210bbd6d6fb6c8402c50d2fad7fcb01e8c23f7999782479ed53d41a"
+hash = "36cc6e8b9845015d916b412a7807703479c8baf2ccdff4ea0fa4780b3839934d"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "49838ea0ff81a31e9abaf830fa237cdafc8a7d73aed16babe27deb86781c013c"
+hash = "69a6713a7ae54e555a2144413ad31cb32fa985fb5e635006635195fbd672889f"
 metafile = true
 
 [[files]]
