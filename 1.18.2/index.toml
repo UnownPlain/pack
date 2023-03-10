@@ -56,6 +56,11 @@ hash = "b778b9fa2776520d229083be6ce7597d66964423cc1a5f8b212bdea72365f417"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "fed0d1bab4e7e037790b03b8df9f9680266395016d95d81c65d6a6074d7d7fa7"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "e157a339cd25591e213b77575f878cb9b32e0282550dfe3522c6fd453b66611a"
 metafile = true

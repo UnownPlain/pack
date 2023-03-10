@@ -38,6 +38,7 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations. | [malte0811](https://modrinth.com/user/malte0811) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft. (Not available for 1.17.1 and 1.18.2) | [RaphiMC](https://modrinth.com/user/RaphiMC) |
 | [Indium](https://modrinth.com/mod/indium) | Sodium addon providing support for the Fabric Rendering API, based on Indigo. | [comp500](https://modrinth.com/user/comp500) |
+| [Iris](https://modrinth.com/mod/iris) | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs. | [coderbot](https://modrinth.com/user/coderbot) |
 | [Krypton](https://modrinth.com/mod/krypton) | A mod to optimize the Minecraft networking stack. | [astei](https://modrinth.com/user/astei) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | A dynamic lights mod. | [LambdAurora](https://modrinth.com/user/LambdAurora) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | Makes the game boot faster by deferring non-essential initialization. | [astei](https://modrinth.com/user/astei) |
