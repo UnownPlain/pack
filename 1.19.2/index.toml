@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "661ba0d700eda7005a16741c24bec1dc24a3874f7bfd31d19d60abba6e4910a3"
+hash = "c43dfdb5a37255a0005b02d8f0399e75ec4b87a5536697e366c4778e423ba217"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4d5801809088c9c07d11402fc20d670f2cc6e9ad62220bd7f27857ab369dce3a"
+hash = "d1331a06375531f2844a72cf622f66465966bda4a8b9b2cba3be45b39505d9a8"
 metafile = true
 
 [[files]]

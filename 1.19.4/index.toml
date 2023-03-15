@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "48581864406359d8fbdc4d8b01b4622be34355ef3315ec69ce31651eb1edc57a"
+hash = "514020455553305374d30fb875ca819b17434d8be50d0a8c0be48153a25afb90"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b897e1b24f7b9c412a32a8f99465ab650ad04867ecc5c1138760db3a2312deca"
+hash = "dd04f0f061b851162ae1de5eada70594d58608c92673b445a3f5860e0c371afa"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "f9fac93320e837ecb50638c085ae208f93646ac06fafdde2846e791941bded15"
+hash = "37da92d4f08b6b29fc788d96c7b7b6d42372ec57642e9014e658dee99b1dd5a8"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c6ad2f98acbeea88faf2a101a404e0f560138e2778d77747b7e9f4b14da175ed"
+hash = "20972c512971901ce82c5ab00c52479b55b0b6891cf5feaf2c878cbb99ff19ed"
 metafile = true
 
 [[files]]
@@ -132,5 +132,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ab1b5e74881730f49b47e19bacac773c2ed41eeebb0a6af11cf8fc931ea5f5d3"
+hash = "398ad3f99d56a462cba272fba003edd7e48b50f50518299f9c1b58751c5dfc93"
 metafile = true
