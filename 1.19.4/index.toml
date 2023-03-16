@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "27691cde3ec4669be4a1078b1f8004ecec8704daf3a32147d9eeeab25cd7fcdb"
+hash = "2d4259340cdf35e0cc861873a97e8961b74e8a2eec81460d825768c29167c332"
 metafile = true
 
 [[files]]
