@@ -1,16 +1,16 @@
 name = "Mod Menu"
-filename = "modmenu-6.1.0-rc.3.jar"
+filename = "modmenu-6.1.0-rc.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/pged5sGx/modmenu-6.1.0-rc.3.jar"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/5e62j63G/modmenu-6.1.0-rc.4.jar"
 hash-format = "sha1"
-hash = "e74b7faee6c68c3932fea5c01206aa10edf63998"
+hash = "d3ec07e6358e95b5ed775ea5a8b1ea938f108a53"
 
 [update]
 [update.modrinth]
 mod-id = "mOgUt4GM"
-version = "pged5sGx"
+version = "5e62j63G"
 
 [option]
 optional = true
