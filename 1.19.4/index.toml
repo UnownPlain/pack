@@ -76,11 +76,6 @@ hash = "ebf305a8684210799d5038afa77849adc1cb1f273768bda353700d384424fd07"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "c3e13bd629fd4b16e08df1ad55533f1522c53802f544db83150c60582a64e62f"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "20972c512971901ce82c5ab00c52479b55b0b6891cf5feaf2c878cbb99ff19ed"
 metafile = true
