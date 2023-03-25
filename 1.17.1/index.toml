@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "b9048036a8f47635356834feacbb40093a3e02bec45399f7aa7a2b8c35c02f07"
+hash = "217f39ae9a9a23dc11cbacdca88cd2b7a4af27b9ee1b8d83c778623428e962a1"
 metafile = true
 
 [[files]]
