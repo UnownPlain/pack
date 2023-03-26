@@ -3,14 +3,14 @@ filename = "memoryleakfix-fabric-1.17+-1.0.0-beta.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/LiwSZxV8/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar"
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/Aj7F3ZMQ/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar"
 hash-format = "sha1"
-hash = "fc9eeba0ab05686358121934c998e4821c6f7dd2"
+hash = "af454d3a35ac9a0613cc4997edd78ba0ebb34663"
 
 [update]
 [update.modrinth]
 mod-id = "NRjRiSSD"
-version = "LiwSZxV8"
+version = "Aj7F3ZMQ"
 
 [option]
 optional = true
