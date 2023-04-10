@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "44e43b85f4ec172b04aa669cf8362073a09611aac235a6da665f45fc57a6c762"
+hash = "20d2635dbe74f994433793a56e12364b49df11e133a961233c74a9bb4a915739"
 metafile = true
 
 [[files]]
