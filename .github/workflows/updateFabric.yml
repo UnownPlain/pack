@@ -1,0 +1,86 @@
+name: Update Mods (Fabric)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  Update-mods:
+    name: Update mods
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+      - name: Setup Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18'
+          check-latest: true
+      - name: Download Packwiz
+        run: go install github.com/packwiz/packwiz@latest
+      - name: Update mods (1.19.4)
+        run: |
+          cd fabric/1.19.4
+          packwiz update --all -y
+          cd ..
+      - name: Update mods (1.19.3)
+        run: |
+          cd 1.19.3
+          packwiz update --all -y
+          cd ..
+      - name: Update mods (1.19.2)
+        run: |
+          cd 1.19.2
+          packwiz update --all -y
+          cd ..
+      - name: Update mods (1.18.2)
+        run: |
+          cd 1.18.2
+          packwiz update --all -y
+          cd ..
+      - name: Check for changes
+        id: changes
+        run: |
+          if [[ -n $(git diff) ]]; then
+            echo "updated=true" >> $GITHUB_OUTPUT
+          fi
+      - name: Prepare Modrith pack files
+        if: ${{ steps.changes.outputs.updated == 'true' }}
+        run: |
+          cd 1.19.4
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
+          cd ..
+          cd 1.19.3
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.19.3.mrpack" UnownPlains-Modpack-1.19.3.mrpack
+          cd ..
+          cd 1.19.2
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.19.2.mrpack" UnownPlains-Modpack-1.19.2.mrpack
+          cd ..
+          cd 1.18.2
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
+          cd ..
+      - name: Release modpack
+        if: ${{ steps.changes.outputs.updated == 'true' }}
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: Modpack
+          name: UnownPlain's Modpack (Fabric)
+          prerelease: false
+          files: |
+            1.19.4/UnownPlains-Modpack-1.19.4.mrpack
+            1.19.3/UnownPlains-Modpack-1.19.3.mrpack
+            1.19.2/UnownPlains-Modpack-1.19.2.mrpack
+            1.18.2/UnownPlains-Modpack-1.18.2.mrpack
+      - name: Commit changes, if any
+        if: ${{ steps.changes.outputs.updated == 'true' }}
+        run: |
+          git config user.name "UnownBot"
+          git config user.email "gitbot@unownplain.ml"
+          git add .
+          git commit -m "Update mods"
+          git push origin main
