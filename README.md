@@ -4,7 +4,7 @@
 [license-link]: https://github.com/UnownPlain/pack/blob/main/LICENSE
 [modloader]: https://shields.io/badge/Modloader-Fabric%20&%20Quilt-red?style=for-the-badge&labelColor=0c0d10&color=3a71c1
 
-A fabric and quilt modpack for Minecraft mods I use.
+A Fabric and Quilt modpack for Minecraft mods I use.
 
 ---
 
@@ -12,7 +12,7 @@ A fabric and quilt modpack for Minecraft mods I use.
 
 ### MultiMC & Prism Launcher (auto-update)
   1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
-  2. Click `Edit` -> `Settings` -> `Custom commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.18.2, 1.19.2, 1.19.3 and `{MODLOADER}` with fabric or quilt.)*
+  2. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.18.2, 1.19.2, 1.19.3 and `{MODLOADER}` with fabric or quilt.)*
   4. When you first lanuch and the packwiz installer window comes up, click optional mods, select the ones you want and click ok
 
 When launching Minecraft, your launcher should update your mods.
@@ -34,7 +34,7 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Reduce FPS lag with block entities, as well as customize them with resource packs. | [FoundationGames](https://modrinth.com/user/FoundationGames) |
 | [EntityCulling](https://modrinth.com/mod/entityculling) | Uses async path-tracing to hide Block-/Entities that are not visible. | [tr7zw](https://modrinth.com/user/tr7zw) |
 | [Exordium](https://modrinth.com/mod/exordium) | Render the GUI and screens at a lower framerate to speed up worldrendering. | [tr7zw](https://modrinth.com/user/tr7zw) |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. | [Fabric Team](https://github.com/FabricMC/fabric) |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain. **(Only on Fabric)** | [Fabric Team](https://github.com/FabricMC/fabric) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | Memory usage optimizations. | [malte0811](https://modrinth.com/user/malte0811) |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | Speed up immediate mode rendering in Minecraft. **(Not available for 1.18.2)** | [RaphiMC](https://modrinth.com/user/RaphiMC) |
 | [Indium](https://modrinth.com/mod/indium) | Sodium addon providing support for the Fabric Rendering API, based on Indigo. | [comp500](https://modrinth.com/user/comp500) |
@@ -47,6 +47,7 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server. | [fxmorin](https://modrinth.com/user/fxmorin) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | A "mini F3" HUD mod, with light level, spawn & slime chunk overlays etc. | [maruohon](https://github.com/maruohon) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Adds a mod menu to view the list of mods you have installed. | [TerraformersMC](https://github.com/TerraformersMC) |
+| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | The standard libraries of the Quilt ecosystem. **(Only on Quilt)** | [QuiltMC](https://github.com/QuiltMC)
 | [Sodium](https://modrinth.com/mod/sodium) | Modern rendering engine and client-side optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Features that shouldn't be in Sodium. | [FlashyReese](https://modrinth.com/user/FlashyReese) |
 | [Starlight](https://modrinth.com/mod/starlight) | Rewrites the light engine to fix lighting performance and lighting errors. | [Spottedleaf](https://modrinth.com/user/spottedleaf) |
