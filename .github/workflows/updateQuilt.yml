@@ -26,17 +26,17 @@ jobs:
           cd ..
       - name: Update mods (1.19.3)
         run: |
-          cd 1.19.3
+          cd quilt/1.19.3
           packwiz update --all -y
           cd ..
       - name: Update mods (1.19.2)
         run: |
-          cd 1.19.2
+          cd quilt/1.19.2
           packwiz update --all -y
           cd ..
       - name: Update mods (1.18.2)
         run: |
-          cd 1.18.2
+          cd quilt/1.18.2
           packwiz update --all -y
           cd ..
       - name: Check for changes
@@ -48,19 +48,19 @@ jobs:
       - name: Prepare Modrith pack files
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd 1.19.4
+          cd quilt/1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
           cd ..
-          cd 1.19.3
+          cd quilt/1.19.3
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.3.mrpack" UnownPlains-Modpack-1.19.3.mrpack
           cd ..
-          cd 1.19.2
+          cd quilt/1.19.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.2.mrpack" UnownPlains-Modpack-1.19.2.mrpack
           cd ..
-          cd 1.18.2
+          cd quilt/1.18.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
           cd ..
@@ -72,10 +72,10 @@ jobs:
           name: UnownPlain's Modpack (Quilt)
           prerelease: false
           files: |
-            1.19.4/UnownPlains-Modpack-1.19.4.mrpack
-            1.19.3/UnownPlains-Modpack-1.19.3.mrpack
-            1.19.2/UnownPlains-Modpack-1.19.2.mrpack
-            1.18.2/UnownPlains-Modpack-1.18.2.mrpack
+            quilt/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
+            quilt/1.19.3/UnownPlains-Modpack-1.19.3.mrpack
+            quilt/1.19.2/UnownPlains-Modpack-1.19.2.mrpack
+            quilt/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
       - name: Commit changes, if any
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
