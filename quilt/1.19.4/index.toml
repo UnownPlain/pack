@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "a2ffa6a2d5fb210fdeba8b67c3c399a2453d233d3a7c9ac9da9650a49aee8a39"
+hash = "33ffdb7a3c0d592249a4c173bc96f89bf0f542577015d6975e407b9dd9d9ac52"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d1f88f3e74b16235450d176e63fe8381780d1ecba4cf54938f67d261fc2f556c"
+hash = "34801719cb24083b1c8618e8f7c3f4c876d3609dcfdf2cf05bcbe57a4245da23"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
+hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "55652d5978689ed40ed3c073a998f8e382504bb6080204e636ab00501aeb0e2c"
+hash = "e1fcec9af38f7120afd45bb3287be5fd801982108ebdfdebcb2d26ffd2e4c307"
 metafile = true
