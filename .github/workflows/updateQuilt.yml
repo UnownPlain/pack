@@ -26,17 +26,17 @@ jobs:
           cd ..
       - name: Update mods (1.19.3)
         run: |
-          cd 1.19.3
+          cd quilt/1.19.3
           packwiz update --all -y
           cd ..
       - name: Update mods (1.19.2)
         run: |
-          cd 1.19.2
+          cd quilt/1.19.2
           packwiz update --all -y
           cd ..
       - name: Update mods (1.18.2)
         run: |
-          cd 1.18.2
+          cd quilt/1.18.2
           packwiz update --all -y
           cd ..
       - name: Check for changes
@@ -52,15 +52,15 @@ jobs:
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
           cd ..
-          cd quilt/1.19.3
+          cd 1.19.3
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.3.mrpack" UnownPlains-Modpack-1.19.3.mrpack
           cd ..
-          cd quilt/1.19.2
+          cd 1.19.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.2.mrpack" UnownPlains-Modpack-1.19.2.mrpack
           cd ..
-          cd quilt/1.18.2
+          cd 1.18.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
           cd ..
