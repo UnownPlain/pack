@@ -13,7 +13,7 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
       - name: Setup Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v4
         with:
           go-version: '1.18'
           check-latest: true
@@ -52,15 +52,15 @@ jobs:
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
           cd ..
-          cd fabric/1.19.3
+          cd 1.19.3
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.3.mrpack" UnownPlains-Modpack-1.19.3.mrpack
           cd ..
-          cd fabric/1.19.2
+          cd 1.19.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.2.mrpack" UnownPlains-Modpack-1.19.2.mrpack
           cd ..
-          cd fabric/1.18.2
+          cd 1.18.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
           cd ..
