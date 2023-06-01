@@ -13,7 +13,7 @@ A Fabric and Quilt modpack for Minecraft mods I use.
 ### MultiMC & Prism Launcher (auto-update)
   1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
   2. Drag and drop the instance into the launcher 
-  3. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.18.2, 1.19.2, 1.19.3 and `{MODLOADER}` with fabric or quilt.
+  3. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.18.2, 1.19.3 and `{MODLOADER}` with fabric or quilt.
   4. When you first lanuch and the packwiz installer window comes up, click optional mods, select the ones you want and click ok
 
 When launching Minecraft, your launcher should update your mods.
