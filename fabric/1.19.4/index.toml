@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "d34285eef7e550b5140578d474cd8c13d815e9bb19b6a9855536615148cea275"
+hash = "080ef2a0b38601ecfa4b4a4719779974d2bde52aad12b8229aae2ecf57977156"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b6ec6e7feb9f351e5098884e7dd7577438136463df6dc29ac38f222780e16f42"
+hash = "bf741061285f2d2a82802ffe053d435df89d0ce1a99089f8ce673cd304e9a52a"
 metafile = true
