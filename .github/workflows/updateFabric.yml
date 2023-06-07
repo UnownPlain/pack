@@ -71,6 +71,7 @@ jobs:
         run: |
           git config user.name "UnownBot"
           git config user.email "gitbot@unownplain.ml"
+          git pull
           git add .
           git commit -m "Update mods"
           git push origin main
