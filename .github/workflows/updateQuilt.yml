@@ -45,7 +45,7 @@ jobs:
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.mrpack" UnownPlains-Modpack-1.20.mrpack
           cd ..
-          cd quilt/1.19.4
+          cd 1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
           cd ..
