@@ -1,4 +1,4 @@
-name: Update  (Quilt)
+name: Update Mods (Quilt)
 
 on:
   workflow_dispatch:
