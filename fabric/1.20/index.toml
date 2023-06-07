@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ca690dfc90c9a059685fe34798bbccfbbe0f66d5975020f52aa329a3a472d8e"
+hash = "705d9e7f3930f1eb950b5b5b7f8456e773c756bbf54615986efa05b69d1aa4b5"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "0b88be6819cff0087c0479a1ce42723cb350a96276d051258c6c9a4a9dcaa196"
 metafile = true
 
 [[files]]
