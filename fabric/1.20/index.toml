@@ -111,11 +111,6 @@ hash = "3c968be8948c9108659e772d600d5627a1fa2eaf5b14f10fe4f77ede64c92125"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "903a6367d1464882bc8ddef72ee40965d85c281f23421df45fc90f51fd5cd3c0"
-metafile = true
-
-[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "ad7576c554e489ecb0d79b116bf528cf0b1a29007e129e53f300da9daf104568"
 metafile = true
