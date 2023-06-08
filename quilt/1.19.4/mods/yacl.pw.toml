@@ -3,14 +3,14 @@ filename = "yet-another-config-lib-fabric-3.0.1+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/SqhaImAC/yet-another-config-lib-fabric-3.0.1%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/naxMMUKo/yet-another-config-lib-fabric-3.0.1%2B1.19.4.jar"
 hash-format = "sha1"
 hash = "1e645501f44c6db32fb653f047aeabb58c54842c"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "SqhaImAC"
+version = "naxMMUKo"
 
 [option]
 optional = true
