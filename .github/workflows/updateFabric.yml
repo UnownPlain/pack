@@ -51,6 +51,7 @@ jobs:
           cd fabric/1.20.1
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.1.mrpack" UnownPlains-Modpack-1.20.1.mrpack
+          cd ..
           cd 1.20
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.mrpack" UnownPlains-Modpack-1.20.mrpack
