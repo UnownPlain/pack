@@ -11,6 +11,8 @@ A Fabric and Quilt modpack for Minecraft mods I use.
 ## Installation
 
 ### MultiMC & Prism Launcher (auto-update)
+> **Info**
+> This has only been tested to work with Prism Launcher 7.1
   1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
   2. Drag and drop the instance into the launcher 
   3. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.18.2, 1.19.4 and `{MODLOADER}` with fabric or quilt.
@@ -42,7 +44,7 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Iris](https://modrinth.com/mod/iris) | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs. | [coderbot](https://modrinth.com/user/coderbot) |
 | [Krypton](https://modrinth.com/mod/krypton) | A mod to optimize the Minecraft networking stack. | [astei](https://modrinth.com/user/astei) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | A dynamic lights mod. | [LambdAurora](https://modrinth.com/user/LambdAurora) |
-| [LazyDFU](https://modrinth.com/mod/lazydfu) _(Only included for 1.19.3 & below, see the cell to your left for more info)_ | Makes the game boot faster by deferring non-essential initialization. **(Mojang has significantly optimized DFU initialization enough that this mod is no longer necessary 1.19.4 & above)** | [astei](https://modrinth.com/user/astei) |
+| [LazyDFU](https://modrinth.com/mod/lazydfu) _(Not needed 1.19.4+)_ | Makes the game boot faster by deferring non-essential initialization. **(Mojang has significantly optimized DFU initialization enough that this mod is no longer necessary 1.19.4 & above)** | [astei](https://modrinth.com/user/astei) |
 | [Lithium](https://modrinth.com/mod/lithium) | No-compromises game logic/server optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | A library mod required for masa's client-side mods. | [maruohon](https://github.com/maruohon) |
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | A mod that fixes random memory leaks for both the client and server. | [fxmorin](https://modrinth.com/user/fxmorin) |
@@ -51,7 +53,7 @@ Download the modpack file for your Minecraft version [here](https://github.com/U
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qsl) | The standard libraries of the Quilt ecosystem. **(Only on Quilt)** | [QuiltMC](https://github.com/QuiltMC)
 | [Sodium](https://modrinth.com/mod/sodium) | Modern rendering engine and client-side optimization mod. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Features that shouldn't be in Sodium. | [FlashyReese](https://modrinth.com/user/FlashyReese) |
-| [Starlight](https://modrinth.com/mod/starlight) | Rewrites the light engine to fix lighting performance and lighting errors. | [Spottedleaf](https://modrinth.com/user/spottedleaf) |
+| [Starlight](https://modrinth.com/mod/starlight) _(Not needed on 1.20+)_ | Rewrites the light engine to fix lighting performance and lighting errors. **(Mojang improved upon their own light engine using the same performance critical designs from Starlight. As a result, Startlight is now obsolete on the client side.)** | [Spottedleaf](https://modrinth.com/user/spottedleaf) |
 | [Tweakeroo](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) | Various client-side tweaks, such as hand restock, hotbar swap/cycle, flexible/fast block placement etc. | [maruohon](https://github.com/maruohon) |
 | [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric) | A graphical user interface for WorldEdit. | [EngineHub](https://github.com/EngineHub) |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | A builder-based configuration library for Minecraft. **(Not needed on 1.18.2)** | [isxander](https://modrinth.com/user/isxander) |
