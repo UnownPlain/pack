@@ -11,7 +11,7 @@ A Fabric and Quilt modpack for Minecraft mods I use.
 ## Installation
 
 ### MultiMC & Prism Launcher (auto-update)
-> **Info**
+> **Note**
 > This has only been tested to work with Prism Launcher 7.1
   1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
   2. Drag and drop the instance into the launcher 
