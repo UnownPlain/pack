@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d1837fad49ae495a17a47e4d7c44aa7b10ed732315d17144130b48469056ab61"
+hash = "569618e5e0cf0ac5694ed45ec8d6e6a549426d2d9f2f412009716464336566a2"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "2c37c0d127d4e087342edf63563cc28bab81a7c3f6c2ed1a07ac414b30d6b89f"
+hash = "4cd5713c071653249f39073560096012a25f9c8e50c0ddc336edd19bf78f015b"
 metafile = true
 
 [[files]]
