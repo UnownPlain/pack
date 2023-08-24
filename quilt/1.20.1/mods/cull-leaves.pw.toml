@@ -1,16 +1,16 @@
 name = "Cull Leaves"
-filename = "cullleaves-quilt-3.1.0.jar"
+filename = "cullleaves-quilt-3.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/EboqCOZq/cullleaves-quilt-3.1.0.jar"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/vGCKmen2/cullleaves-quilt-3.2.0.jar"
 hash-format = "sha1"
-hash = "2266a23987316241756eda1934549424da8db921"
+hash = "8c146fc54324030319bfe08dd15b1a96bb189a5d"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "EboqCOZq"
+version = "vGCKmen2"
 
 [option]
 optional = true
