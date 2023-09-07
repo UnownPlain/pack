@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "43663ab4ae2d790f8e1aba5c871357e71af43dd65d1a3947bf20dec26a3215fb"
+hash = "74cca1e96f99bd9e02653501f66f874da11d9a114547cfcd12ca51ee8e756b7e"
 metafile = true
 
 [[files]]
