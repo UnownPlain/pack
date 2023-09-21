@@ -1,0 +1,16 @@
+name = "UnownPlain's Modpack"
+author = "UnownPlain"
+version = "1.20.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bb7d6ea0b13c5c2d0feab0873b31aa5728b7802f7bfa32856903140691b52bc"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.2"
+
+[options]
+acceptable-game-versions = ["1.20.1", "1.20.2"]
