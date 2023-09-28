@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "9a9ed741b7f79ca0b54c1d33ebe2a46c2c220b3a61a5fc1c362b091eccd6c7b8"
+hash = "fa275c5fb84c2db0b583dad84b56168aa3b0760a206db09a1f4eec2bd63a9a53"
 metafile = true
 
 [[files]]
