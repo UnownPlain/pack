@@ -24,16 +24,6 @@ jobs:
           cd fabric/1.20.2
           packwiz update --all -y
           cd ..
-      - name: Update Mods (1.20.1)
-        run: |
-          cd fabric/1.20.1
-          packwiz update --all -y
-          cd ..
-      - name: Update mods (1.20)
-        run: |
-          cd fabric/1.20
-          packwiz update --all -y
-          cd ..
       - name: Update mods (1.19.4)
         run: |
           cd fabric/1.19.4
@@ -57,14 +47,6 @@ jobs:
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.2.mrpack" UnownPlains-Modpack-1.20.2.mrpack
           cd ..
-          cd 1.20.1
-          packwiz mr export
-          mv "UnownPlain's Modpack-1.20.1.mrpack" UnownPlains-Modpack-1.20.1.mrpack
-          cd ..
-          cd 1.20
-          packwiz mr export
-          mv "UnownPlain's Modpack-1.20.mrpack" UnownPlains-Modpack-1.20.mrpack
-          cd ..
           cd 1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
@@ -82,8 +64,6 @@ jobs:
           prerelease: false
           files: |
             fabric/1.20.2/UnownPlains-Modpack-1.20.2.mrpack
-            fabric/1.20.1/UnownPlains-Modpack-1.20.1.mrpack
-            fabric/1.20/UnownPlains-Modpack-1.20.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
             fabric/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
       - name: Commit changes, if any
