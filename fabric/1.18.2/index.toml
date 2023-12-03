@@ -11,11 +11,6 @@ hash = "f0296ce82a749ab0d1d20747b8fa62e87368c0b3665be2dfb4048ad5681f8ac2"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "0c294647b4c0a1e3a59ca64198b1a84494bf636a52761f012bef3c953cd6dd4d"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "6acc9c58739a8bf628540ceb14076cda14e3193393b075a1790c62c61396f63d"
 metafile = true
@@ -33,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "447c2836684d180f586d29fb4007b7884595457b4854211a6f803bbf3bdbc10a"
-metafile = true
-
-[[files]]
-file = "mods/exordium.pw.toml"
-hash = "00e5970d49868e53365caa0dde292bc81674a1d1b3dd40625b571a70a22e11cc"
 metafile = true
 
 [[files]]
@@ -61,11 +51,6 @@ hash = "76a5ca4832d3219c70e29821cef8473ff861b7a4035039b9c6c6013bf542de1d"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "e157a339cd25591e213b77575f878cb9b32e0282550dfe3522c6fd453b66611a"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "dc19c1e4ae9e318c1fb24de693fb75eb00ef131060f75149bad6da2223cb94fa"
 metafile = true
@@ -86,13 +71,13 @@ hash = "2dbb946807eeeb7ae269ae88cbf11232fd95f0e82b669f6883cb4a4fffd1819c"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "5e166ed364231cbf425e1fcd5f30dc2a5ae31eb7a9ab82fa7f5c24dcba960858"
+file = "mods/minihud.pw.toml"
+hash = "00ae0d0e7887c2ede93e1a6901e699287510f5b9e2592a2a542fb2f6795f0265"
 metafile = true
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "00ae0d0e7887c2ede93e1a6901e699287510f5b9e2592a2a542fb2f6795f0265"
+file = "mods/modernfix.pw.toml"
+hash = "92e844ef8c81112dd14b649436ea90ca7573a395d5efc3e2985e93750f60f986"
 metafile = true
 
 [[files]]
