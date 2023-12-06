@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "fa275c5fb84c2db0b583dad84b56168aa3b0760a206db09a1f4eec2bd63a9a53"
+hash = "177536403d7a395434b7cf7391142e0fedbb354f528ae0fc81b86f28a10b8cf6"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "988a1d3ec289ca8e11fdd6cbd65656d07cf307411f3795b897035ac0fd308b59"
+hash = "9fe88f6bf4063967430648f1243c394b8b4280c520e0cb38626fd18fc56b257b"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c32a735def92e41e140fc7da0519c4c7d7507f816b28e2cf9e8298289f37ebc6"
+hash = "9aaf18c5d8b64c1ea14ea22f1ebd95e59c8ff82c9e4b563985ee32f7b794a9d7"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+hash = "39ed42b47a3742d3a399907422665c66bf62d50524049ab46dd7b730d0eeec2b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c85a3d221dadb0302df2802f14e11bbb9d1ec1e049989bbbcb979a9525fc74f6"
+hash = "5a85caca1826ff864f7444dceeb30fa296a36fdce538a53da26301add626d5ec"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "28a6ebc6668d09d4f358c02219306b9e3db602e3610d6a18e1f986273eccb1d6"
+hash = "209a51bc3830c4de720e828b2125caedd6298a6cb451440cd2fc5d8eed481431"
 metafile = true
 
 [[files]]
@@ -102,10 +102,10 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "40c1519a2bce712e7337e4f79cc0872205b4fca3a67e3c0db1e4abc496de8c80"
+hash = "2873a61856b18814e8f221f7c66b7aba33a925ae5cdeea87ea3b1214db609e84"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "22f2c005fb7f94f90de95d5de0e86a78415dd2d40b509b49637ae4298d42c5ac"
+hash = "65736bbee083d813f2246ff08f4391bfd9140cff2a57dcb200c02fec703437d0"
 metafile = true
