@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "4b580883044a8ca6cf1206d03a37f74198cbaa2ecf110c6c1cdc3cc50e7170f6"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ad2d10307be09b5801b47a8efd06790e1c2de5d98dfb3be22621898ed1774581"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "fa275c5fb84c2db0b583dad84b56168aa3b0760a206db09a1f4eec2bd63a9a53"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "f24fe5f2183bb819a7f7515479416af338f04d3196ebb6f71a0c1e76a12da607"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "ee1bb9a2c28947435612976a0f0afd09ad7bfb255a4f81fb1dfe411a2de20b71"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b2c1a5e9e780a158cd803cc0eae7520dd34af94f9ec13dfe1a34aa7cbcd4d695"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "34e04e9f04644bcb4013e53a6932020bb32669576f795dc365da723be8f727d0"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f8c13f85ba658aa92f05a190d30fa611a06421589b89687eadb8ee7699198428"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0ebe9d1e0ff091982014330bdc4836367fc6b03c561c41b9a41e50fcda3fe773"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c32a735def92e41e140fc7da0519c4c7d7507f816b28e2cf9e8298289f37ebc6"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "4ab2c9bfa914dae0083695ec4c0d2f2d10a2d1bee71f22600fb2563ae57883c0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "65ead59a40b11cc4dd857b038d01e00a76d011b1d6238a6320a8610595115f62"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "1714524675650c059d25eceab6f1f0b4eaab5f7b2c6390365d66b2f41915cf0e"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "365796648f174f7bec6ca2b1ed8407eb02030a1209f552fb0959666d303000e6"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "c85a3d221dadb0302df2802f14e11bbb9d1ec1e049989bbbcb979a9525fc74f6"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "3471b9ca8eaf2777095fe03038dd95f78fce9aaf60c30336b73741491fbd142b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "28a6ebc6668d09d4f358c02219306b9e3db602e3610d6a18e1f986273eccb1d6"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c64e3b9a28ff7e19342be5fac87b1a4cff58d85dc1924ce120a32bd408053827"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "40c1519a2bce712e7337e4f79cc0872205b4fca3a67e3c0db1e4abc496de8c80"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "22f2c005fb7f94f90de95d5de0e86a78415dd2d40b509b49637ae4298d42c5ac"
+metafile = true

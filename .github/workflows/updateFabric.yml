@@ -11,14 +11,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Setup Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.18'
+          go-version: '1.19'
           check-latest: true
       - name: Download Packwiz
         run: go install github.com/packwiz/packwiz@latest
+      - name: Update Mods (1.20.3)
+        run: |
+          cd fabric/1.20.3
+          packwiz update --all -y
+          cd ..
       - name: Update Mods (1.20.2)
         run: |
           cd fabric/1.20.2
@@ -43,7 +48,11 @@ jobs:
       - name: Prepare Modrith pack files
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd fabric/1.20.2
+          cd fabric/1.20.3
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.20.3.mrpack" UnownPlains-Modpack-1.20.3.mrpack
+          cd ..
+          cd 1.20.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.2.mrpack" UnownPlains-Modpack-1.20.2.mrpack
           cd ..
@@ -63,6 +72,7 @@ jobs:
           name: UnownPlain's Modpack (Fabric)
           prerelease: false
           files: |
+            fabric/1.20.3/UnownPlains-Modpack-1.20.3.mrpack
             fabric/1.20.2/UnownPlains-Modpack-1.20.2.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
             fabric/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
