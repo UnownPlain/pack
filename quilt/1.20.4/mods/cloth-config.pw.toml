@@ -1,16 +1,16 @@
 name = "Cloth Config API"
-filename = "cloth-config-13.0.112-fabric.jar"
+filename = "cloth-config-13.0.114-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar"
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/YFpDLLdu/cloth-config-13.0.114-fabric.jar"
 hash-format = "sha1"
-hash = "2f9e78948687391125d4b078d989d886df2b1ae5"
+hash = "79bad6f25b5c2c21147475f2bcdb102120bb8d74"
 
 [update]
 [update.modrinth]
 mod-id = "9s6osm5g"
-version = "Q4D6X8wF"
+version = "YFpDLLdu"
 
 [option]
 optional = true
