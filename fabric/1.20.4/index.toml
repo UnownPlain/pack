@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "34e04e9f04644bcb4013e53a6932020bb32669576f795dc365da723be8f727d0"
+hash = "26eff504df81e453ad36d671f625a51f1f4d04ca513ffe30293a1edf39a4eb47"
 metafile = true
 
 [[files]]
