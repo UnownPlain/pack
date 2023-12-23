@@ -13,20 +13,15 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v4
       - name: Setup Go
-        uses: actions/setup-go@v4
+        uses: actions/setup-go@v5
         with:
-          go-version: '1.19'
+          go-version: '1.21'
           check-latest: true
       - name: Download Packwiz
         run: go install github.com/packwiz/packwiz@latest
       - name: Update Mods (1.20.4)
         run: |
           cd fabric/1.20.4
-          packwiz update --all -y
-          cd ..
-      - name: Update Mods (1.20.2)
-        run: |
-          cd fabric/1.20.2
           packwiz update --all -y
           cd ..
       - name: Update mods (1.19.4)
@@ -52,10 +47,6 @@ jobs:
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.4.mrpack" UnownPlains-Modpack-1.20.4.mrpack
           cd ..
-          cd 1.20.2
-          packwiz mr export
-          mv "UnownPlain's Modpack-1.20.2.mrpack" UnownPlains-Modpack-1.20.2.mrpack
-          cd ..
           cd 1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
@@ -73,7 +64,6 @@ jobs:
           prerelease: false
           files: |
             fabric/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
-            fabric/1.20.2/UnownPlains-Modpack-1.20.2.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
             fabric/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
       - name: Commit changes, if any
