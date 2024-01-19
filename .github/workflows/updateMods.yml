@@ -1,4 +1,4 @@
-name: Update Mods (Fabric)
+name: Update Mods
 
 on:
   schedule:
@@ -19,19 +19,22 @@ jobs:
           check-latest: true
       - name: Download Packwiz
         run: go install github.com/packwiz/packwiz@latest
-      - name: Update Mods (1.20.4)
+      - name: Update Mods (Fabric)
         run: |
           cd fabric/1.20.4
           packwiz update --all -y
-          cd ..
-      - name: Update mods (1.19.4)
-        run: |
-          cd fabric/1.19.4
+          cd ../1.19.4
+          packwiz update --all -y
+          cd ../1.18.2
           packwiz update --all -y
           cd ..
-      - name: Update mods (1.18.2)
-        run: |
-          cd fabric/1.18.2
+      - name: Update Mods (Quilt)
+      - run: |
+          cd quilt/1.20.4
+          packwiz update --all -y
+          cd ../1.19.4
+          packwiz update --all -y
+          cd ../1.18.2
           packwiz update --all -y
           cd ..
       - name: Check for changes
@@ -40,22 +43,33 @@ jobs:
           if [[ -n $(git diff) ]]; then
             echo "updated=true" >> $GITHUB_OUTPUT
           fi
-      - name: Prepare Modrith pack files
+      - name: Prepare Modrith pack files (Fabric)
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
           cd fabric/1.20.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.4.mrpack" UnownPlains-Modpack-1.20.4.mrpack
-          cd ..
-          cd 1.19.4
+          cd ../1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
-          cd ..
-          cd 1.18.2
+          cd ../1.18.2
           packwiz mr export
           mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
           cd ..
-      - name: Release modpack
+      - name: Prepare Modrith pack files (Quilt)
+        if: ${{ steps.changes.outputs.updated == 'true' }}
+        run: |
+          cd quilt/1.20.4
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.20.4.mrpack" UnownPlains-Modpack-1.20.4.mrpack
+          cd ../1.19.4
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
+          cd ../1.18.2
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.18.2.mrpack" UnownPlains-Modpack-1.18.2.mrpack
+          cd ..
+      - name: Release modpack (Fabric)
         if: ${{ steps.changes.outputs.updated == 'true' }}
         uses: softprops/action-gh-release@v1
         with:
@@ -66,6 +80,17 @@ jobs:
             fabric/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
             fabric/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
+      - name: Release Modpack (Quilt)
+        if: ${{ steps.changes.outputs.updated == 'true' }}
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: Modpack
+          name: UnownPlain's Modpack (Quilt)
+          prerelease: false
+          files: |
+            quilt/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
+            quilt/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
+            quilt/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
       - name: Commit changes, if any
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
