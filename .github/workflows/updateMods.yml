@@ -29,7 +29,7 @@ jobs:
           packwiz update --all -y
           cd ..
       - name: Update Mods (Quilt)
-      - run: |
+        run: |
           cd quilt/1.20.4
           packwiz update --all -y
           cd ../1.19.4
