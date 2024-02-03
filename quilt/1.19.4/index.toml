@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "8b3fc1bcf9beb33f4d8754d78544b162457e920ba10d033f1ff9a4bb9cba333b"
+hash = "b7049c2b29fe69f0c4dd5615f552231e285aaca2076ba3bf1f7989a81a6b95c4"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "20d2635dbe74f994433793a56e12364b49df11e133a961233c74a9bb4a915739"
+hash = "a3d9990b12dd33e957cffac8245a63a896c35ec6d0e55a3f21ffdf5057a64781"
 metafile = true
 
 [[files]]
