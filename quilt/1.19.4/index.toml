@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "b7049c2b29fe69f0c4dd5615f552231e285aaca2076ba3bf1f7989a81a6b95c4"
+hash = "739dc709f73751edeae80a8217bc715d10918293fb8e1010fb40b3aa76b58eea"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cb84b71fadc7abf51f5441681a32e934fe551e3d98f33e8f4c60c8563a579c0f"
+hash = "a593f082684230b15b66eb51b36ccbf4405b7cbdc7fe2d7026367408034cecbd"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "21a08aba1d8e709cb43bc48cd0828f9f58f23840ddb72f6d94079dfcbe78882b"
+hash = "d0c7814e01370babb09755fa21023786e679055ce999d7a9cc2d6ad271e865a1"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "a3d9990b12dd33e957cffac8245a63a896c35ec6d0e55a3f21ffdf5057a64781"
+hash = "20d2635dbe74f994433793a56e12364b49df11e133a961233c74a9bb4a915739"
 metafile = true
 
 [[files]]

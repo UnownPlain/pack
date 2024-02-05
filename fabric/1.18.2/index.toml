@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0c1c4fef5d757d8e650246bc9967fd157b9aa59d262cfcd40fe3015aed3f597d"
+hash = "74167461babd22c6ca233cd3c517dac40675500efc20e3aab4e11ce2784d09c1"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "51eedc973c56f56a8dd3ad4f78f8a5f7c2fa9c4dad7fad92e0329dd53571a615"
+hash = "dbeab02a5c9d2c4aa7ef0bb1c4571596f64ad6a48969f056ec2cb4ce9591fe96"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
+hash = "5f75b29f1ad2f8af95d9209189ba2f6d181781e4107e2354523f38c0f5b8085c"
 metafile = true
 
 [[files]]

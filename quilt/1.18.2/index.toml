@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "51eedc973c56f56a8dd3ad4f78f8a5f7c2fa9c4dad7fad92e0329dd53571a615"
+hash = "dbeab02a5c9d2c4aa7ef0bb1c4571596f64ad6a48969f056ec2cb4ce9591fe96"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74e468bc076af2cfacd90b7adab7bec5106180771d991313d81a68a9e0f76a67"
+hash = "5f75b29f1ad2f8af95d9209189ba2f6d181781e4107e2354523f38c0f5b8085c"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "4ef251bf925c957e46fa3b223933425df85611d4ddf0e7a04949b38783800a65"
+hash = "8b2b1a94c15a6b20df483b92101ef20635bb424e8cb752f87de82834d343b3e1"
 metafile = true
 
 [[files]]

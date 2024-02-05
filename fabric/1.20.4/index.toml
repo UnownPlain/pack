@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e2ec896b0b562bc0086e0be7397cfb947145ad8f15b36b874407471d7b64e2db"
+hash = "ba9fc216f65522a141da03489a879843d19085a356ff1bc2a043bf9010377675"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "fbee4beba3814a367ef902eefe9c0c70ba236642873e6e39c7a35ee4abc29e5e"
+hash = "bcd01f27961dadc7b948eee8e94a6c3f96051ddc640c5849c91494d67d061c03"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b88658496a83e1ade03fe955191c379d413db8915f2f8d9641797b6f22865b25"
+hash = "796fbbf07322ce772586abf9e1a5d592be942f15f3266edd36501b4b7db4e793"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "68557e8b0cd7bdf1015c3760d70841a876284d7f83b36bfea022a8612e8a393a"
+hash = "bccce55ebe49e2e6a6aba5123bc71c40dd8a9978249df4ee144c5ff6b70cfce0"
 metafile = true
 
 [[files]]
