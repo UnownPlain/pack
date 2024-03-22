@@ -15,7 +15,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.21'
+          go-version: '1.22'
           check-latest: true
       - name: Download Packwiz
         run: go install github.com/packwiz/packwiz@latest
@@ -82,7 +82,7 @@ jobs:
             fabric/1.18.2/UnownPlains-Modpack-1.18.2.mrpack
       - name: Release Modpack (Quilt)
         if: ${{ steps.changes.outputs.updated == 'true' }}
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: Modpack
           name: UnownPlain's Modpack (Quilt)
