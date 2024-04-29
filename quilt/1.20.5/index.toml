@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "aaf1967709c6ff78417ad9debfd7526f6ac728d9608df9d398e7775cf8aebd83"
+hash = "c0c8a3f4406123238a85d504da4866c5f94d900f6c8e086587ede8de01c125b5"
 metafile = true
 
 [[files]]
@@ -107,5 +107,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "da635bb35bbf06b474fcea27fbc7ee96d962061adb22ffde63d5fb2e955c8c14"
+hash = "90ae5b70d3df1495d9be0e29403d5027a7b07a9e1273cdb31b22b13e91846d13"
 metafile = true
