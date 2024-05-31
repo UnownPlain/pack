@@ -21,7 +21,9 @@ jobs:
         run: go install github.com/packwiz/packwiz@latest
       - name: Update Mods (Fabric)
         run: |
-          cd fabric/1.20.6
+          cd fabric/1.21
+          packwiz update --all -y
+          cd ../1.20.6
           packwiz update --all -y
           cd ../1.20.4
           packwiz update --all -y
@@ -32,7 +34,9 @@ jobs:
           cd ..
       - name: Update Mods (Quilt)
         run: |
-          cd quilt/1.20.6
+          cd quilt/1.21
+          packwiz update --all -y
+          cd ../1.20.6
           packwiz update --all -y
           cd ../1.20.4
           packwiz update --all -y
@@ -50,7 +54,10 @@ jobs:
       - name: Prepare Modrith pack files (Fabric)
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd fabric/1.20.6
+          cd fabric/1.21
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.21.mrpack" UnownPlains-Modpack-1.21.mrpack
+          cd ../1.20.6
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.6.mrpack" UnownPlains-Modpack-1.20.6.mrpack
           cd ../1.20.4
@@ -66,7 +73,10 @@ jobs:
       - name: Prepare Modrith pack files (Quilt)
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd quilt/1.20.6
+          cd quilt/1.21
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.21.mrpack" UnownPlains-Modpack-1.21.mrpack
+          cd ../1.20.6
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.6.mrpack" UnownPlains-Modpack-1.20.6.mrpack
           cd ../1.20.4
@@ -87,6 +97,7 @@ jobs:
           name: UnownPlain's Modpack (Fabric)
           prerelease: false
           files: |
+            fabric/1.21/UnownPlains-Modpack-1.21.mrpack
             fabric/1.20.6/UnownPlains-Modpack-1.20.6.mrpack
             fabric/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
@@ -99,6 +110,7 @@ jobs:
           name: UnownPlain's Modpack (Quilt)
           prerelease: false
           files: |
+            quilt/1.21/UnownPlains-Modpack-1.21.mrpack
             quilt/1.20.6/UnownPlains-Modpack-1.20.6.mrpack
             quilt/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
             quilt/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
