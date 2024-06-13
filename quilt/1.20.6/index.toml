@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8f1c97bb0e685f725fb0aa2293447612ecad9a4c6ef6622c7282998d40d7486e"
+hash = "50cdd553c647b7eacdf06e001dafc74a5f81330c2502035664f73c5f5cd6347e"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "543d31ad02cae1a2be91dd7e460a6bf40579ed0f537e612c476c1564740586fe"
+hash = "2a9df39916ab71a09a66ac8b88f42438692ea87ac3a5a92d5e9ee6ea654d25c2"
 metafile = true
 
 [[files]]
