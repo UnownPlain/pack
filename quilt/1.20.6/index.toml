@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "993472f9815fc78b1fede8371500a8f6c96b59f78cbe1b9eaa3bc451164493af"
+hash = "fdcffed72d9e7245dc51baf5193692b187ca13dbdca0d26799e1756c3529e2f2"
 metafile = true
 
 [[files]]

@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "a8a34bf656cc4c9f05e3bf5c06552e6f05e97fab464670bba42f7a4ebfcd93b5"
+hash = "27bdd28455655c01919bfe3a49cb1d343a9e5aab39e57403df06071defb2b234"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "115d18233902219da01a73d8dce222b42032fb79c646cfa4a781d55bb7942b12"
+hash = "82a21ad298f68a6d99306537078c2eb0bd431968c7e6730d2a86f3470eca31cf"
 metafile = true
 
 [[files]]
