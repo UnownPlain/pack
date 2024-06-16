@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d6ba39fb2c0fc893b4a07610b81abad7f845a60d7216d39d8764d226ea0f07d1"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "360581cf94178eae9d7170228ee7aefbc7800afc515e27c5b95faf58584f8541"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fullbright.pw.toml"
+hash = "e883a8c887d581272fa7ce43d12e199aa297b68771c2ada53cfd462e1503f7da"
 metafile = true
 
 [[files]]
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "8cb2b8ce69a4c0a810ead7ee2006513fd56d44454c1325228abdbb2821ea2f38"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "4c25ab649ab899d2efe7ae075d9ada0822f5c393aa11a575a423e7f3960738ea"
 metafile = true
 
 [[files]]
