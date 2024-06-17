@@ -11,3 +11,6 @@ hash = "4e4e01e0293959ced3f198749f978f59e7359e2a"
 [update.modrinth]
 mod-id = "ZP7xHXtw"
 version = "RTegAHGi"
+
+[option]
+optional = true
