@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e9999d5ccd9cba3a02989e8887ee877e9dcf2daf6fb6d5aa8f1c960e42de6669"
+hash = "ebc6f32e08a8128694df2627b00c0512b4da37077d13af78c1d6ecc7bb728b51"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "e883a8c887d581272fa7ce43d12e199aa297b68771c2ada53cfd462e1503f7da"
+hash = "ea1ea5c028c240b1a95930aee294a348724e67347ad1357db6feb3bd6d9e61ea"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "c16e5515c9578fb21ede824ddc04c155687e64f905501648120b89f7669d57d1"
+hash = "106743046bad496c7022a60e25a1fc19e8bde66b7505ef2334f374fd0ec2e482"
 metafile = true
 
 [[files]]

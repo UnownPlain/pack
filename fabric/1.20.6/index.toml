@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "689af17262c93b93d9879d3587d038a2c9dd2b2d48c420876baa3f79b664dc9a"
+hash = "b4d4945e6adebe62c604326ac89e4637f9e8b867e7bb6598fbd4e3870ba29894"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "e883a8c887d581272fa7ce43d12e199aa297b68771c2ada53cfd462e1503f7da"
+hash = "ea1ea5c028c240b1a95930aee294a348724e67347ad1357db6feb3bd6d9e61ea"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b9c10ca8e92cff3268fca80508528b5dfd861966cfdb32cb0b97ac98f6b24e45"
+hash = "32d8be00e39c0a1d1135077afb0f234547e4249e3c8b6f81588e325c5a83335b"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "4c25ab649ab899d2efe7ae075d9ada0822f5c393aa11a575a423e7f3960738ea"
+hash = "0f906d4950611cef05ac47d912feef308cd3af0962b2d80dee74068557aaafb4"
 metafile = true
 
 [[files]]
