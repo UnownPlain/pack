@@ -12,13 +12,11 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v4
-      - name: Setup Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: '1.22'
-          check-latest: true
-      - name: Download Packwiz
-        run: go install github.com/packwiz/packwiz@latest
+      - name: Download & Setup Packwiz
+        run: |
+          wget https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip \*.zip
+          echo "./packwiz" >> $GITHUB_PATH
       - name: Update Mods
         run: |
           cd fabric/1.21

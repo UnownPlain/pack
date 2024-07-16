@@ -96,12 +96,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-# Exclude README
-/README.md
-
-# Exculde LICENSE
-/LICENSE
-
-# Exculde .nojekyll
-/.nojekyll
