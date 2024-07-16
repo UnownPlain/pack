@@ -15,7 +15,7 @@ jobs:
       - name: Download & Setup Packwiz
         run: |
           wget -P /usr/local/bin/packwiz https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
-          unzip /usr/local/bin/packwiz/\*.zip
+          unzip /usr/local/bin/packwiz/\*.zip -d /usr/local/bin/packwiz
           chmod +x /usr/local/bin/packwiz/packwiz
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
       - name: Update Mods
