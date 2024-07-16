@@ -66,11 +66,6 @@ hash = "9bd63f63686342a3da755517291f8620999520480e47e8cd9c8705295584f9ba"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "155172f37fb5288d4737772dddbee979e2b9269017a1afdc9890f5720e7161ee"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9c518e8cdd180079385bce2b12e1d4e390888760e14e246a8bd7283cb24cf898"
 metafile = true
@@ -96,8 +91,18 @@ hash = "f7819eed7992b45a9c0166af5584e180f3224a20c666b6f47eb0adde253623d1"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "5e77af641e25a3a1811ce259b93b0371134826eab1524e5631a4a941199560b0"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "249b71e84f094f716c122fbdd366e802159482d5d68681acb6e8d73ed9685bad"
 metafile = true
 
 [[files]]
