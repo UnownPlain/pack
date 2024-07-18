@@ -1,16 +1,7 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.20.4-0.30.2.jar"
-side = "both"
+filename = "minihud-fabric-1.21-0.31.999-sakura.9.jar"
 
 [download]
-hash-format = "sha1"
-hash = "8610a5037c01ad421c75af0132db56a63a6e09e2"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5096818
-project-id = 244260
-
-[option]
-optional = true
+url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.9/minihud-fabric-1.21-0.31.999-sakura.9.jar"
+hash-format = "sha256"
+hash = "91972e6528470c5f6e7656fb66161b3aa5921a7b0fbf9b160747bb8367f3a55e"
