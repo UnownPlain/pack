@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "7a947f54bf28fb4b53a2b0a1bcdc7d210df3b1fa9dd0cf169f2c2f736d954a5d"
+hash = "b6a3221538f06de404d4aa28fa77e24011de5dce204ddb8e49cf11c749f80e92"
 metafile = true
 
 [[files]]
