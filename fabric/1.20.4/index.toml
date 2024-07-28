@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f62830cb6db3a951529a34840e73996dfe8d2529d910fd46a7157d442ff01cc3"
+hash = "59bef4e13eece9129afe0af28e6aba4e90eb4f8ca37c135198f95b7adbb3f8f7"
 metafile = true
 
 [[files]]
