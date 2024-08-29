@@ -53,7 +53,7 @@ jobs:
           cd ..
       - name: Release modpack
         if: ${{ steps.changes.outputs.updated == 'true' }}
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: Modpack
           name: UnownPlain's Modpack (Fabric)
