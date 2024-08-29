@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0845c18a3dddba581e076c5cc726ac28fb0e840a57eeaef836a64299e8119ae4"
+hash = "2c6f196e5fb49af3c05012fe0f3600890c17842d833fd0180850b122827aedd1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d1e0532d5eb56b99b8522c0d0ec473ee2448db76944b982d7f40d6f3596000e1"
+hash = "0fad748d7f52451237c384c105bc8d7ea04dae51d043ce4231b0ecfed30ba2aa"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e1cc9de494fb507977b67c541863fb1c83422f7c8af08e062bf716347560e60"
+hash = "f321348e7c3579f216cf99ccf740644eb46a104089f16c89f6024b99ba24db2a"
 metafile = true
 
 [[files]]

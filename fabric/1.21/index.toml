@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2e3d398adb82bebe901aafbf9e582049f920a62dfe5560c054550ef7ff527e50"
+hash = "a421140cdda970263b96da3d60c31063e0da9254925e7543eb057734117da990"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7b27e3e5b2fbba70a154827f481bf45bc8eebe35b57d044d1e7f8b2e485a5263"
+hash = "20546aea3a3f245008f66dbfffdfabc1f2878f9759ebe55376491417aed88ca0"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7a22919253d5b14e2ac943f82e50f385f29abcd578f9c75744adecf9d4623df4"
+hash = "b9fade70d7dda65802d2d0de8a784604e67035aa1543158df99bbdce148ecd77"
 metafile = true
 
 [[files]]
