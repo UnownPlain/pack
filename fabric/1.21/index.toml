@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "0b9b037335c71b28e14692cef8561582de61d7c116f064c205e717af4db681c3"
+hash = "48e79e0c61ad861001a5548771da474d5ef4c9b717beeb21a4fe0dabe2432347"
 metafile = true
 
 [[files]]
