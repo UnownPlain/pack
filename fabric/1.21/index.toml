@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e852a2b8c20cd79b12d754e9f2646c015faf91e94416385e6d179b6b3d19ab6d"
+hash = "323a425870a9072c1857b3c355f3508bbd75fe0253cb52969b4f0732d897a8cc"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e3edc1baaeee16b3425d123e0e1b792cad544cba3ef680f92aa639ce2105ed0f"
+hash = "8c1dab5e0be550282e5279bb85817e5378e66436249a1c7a75fc5d7b6cda75e5"
 metafile = true
 
 [[files]]
