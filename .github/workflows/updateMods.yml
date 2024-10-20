@@ -2,7 +2,7 @@ name: Update Mods
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,11 +20,11 @@ jobs:
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
       - name: Update Mods
         run: |
-          cd fabric/1.21
+          cd fabric/1.21.2
+          packwiz update --all -y
+          cd ../1.21.1
           packwiz update --all -y
           cd ../1.20.6
-          packwiz update --all -y
-          cd ../1.20.4
           packwiz update --all -y
           cd ../1.19.4
           packwiz update --all -y
@@ -38,15 +38,15 @@ jobs:
       - name: Prepare Modrith pack files
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd fabric/1.21
+          cd fabric/1.21.2
           packwiz mr export
-          mv "UnownPlain's Modpack-1.21.mrpack" UnownPlains-Modpack-1.21.mrpack
+          mv "UnownPlain's Modpack-1.21.2.mrpack" UnownPlains-Modpack-1.21.2.mrpack
+          cd ../1.21.1
+          packwiz mr export
+          mv "UnownPlain's Modpack-1.21.1.mrpack" UnownPlains-Modpack-1.21.1.mrpack
           cd ../1.20.6
           packwiz mr export
           mv "UnownPlain's Modpack-1.20.6.mrpack" UnownPlains-Modpack-1.20.6.mrpack
-          cd ../1.20.4
-          packwiz mr export
-          mv "UnownPlain's Modpack-1.20.4.mrpack" UnownPlains-Modpack-1.20.4.mrpack
           cd ../1.19.4
           packwiz mr export
           mv "UnownPlain's Modpack-1.19.4.mrpack" UnownPlains-Modpack-1.19.4.mrpack
@@ -59,9 +59,9 @@ jobs:
           name: UnownPlain's Modpack (Fabric)
           prerelease: false
           files: |
-            fabric/1.21/UnownPlains-Modpack-1.21.mrpack
-            fabric/1.20.6/UnownPlains-Modpack-1.20.6.mrpack
-            fabric/1.20.4/UnownPlains-Modpack-1.20.4.mrpack
+            fabric/1.21.2/UnownPlains-Modpack-1.21.mrpack
+            fabric/1.21.1/UnownPlains-Modpack-1.20.6.mrpack
+            fabric/1.20.6/UnownPlains-Modpack-1.20.4.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
       - name: Commit changes, if any
         if: ${{ steps.changes.outputs.updated == 'true' }}
@@ -71,4 +71,4 @@ jobs:
           git pull
           git add .
           git commit -m "Update mods"
-          git push origin main
+          git push origin
