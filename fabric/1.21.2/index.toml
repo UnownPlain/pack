@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "be8bfa56325b75319534240dfa0fc2beedc594060e69ae48518df3ede15d5c4c"
+hash = "47ecf4b81b64b29325d5c3c2692cdee20e2389c1710fd4180da04efc01d2addc"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e852a2b8c20cd79b12d754e9f2646c015faf91e94416385e6d179b6b3d19ab6d"
+hash = "654f97d6eb889f998e5cda5ccf7294154f070503456ce8b8e7804e1f454a1dac"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "c457228ef1bf18c60f35e07e78ebe9fb4ba062f4157fbfa3bf90ab1c7b751f89"
+hash = "bfcc2d3ef18083bcd51515a0fe15d42e9f7953c6f6c24f95f4d6b7370fb719e4"
 metafile = true
 
 [[files]]
@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6470be429d793396b4f262eeb28cded73dfe18b2f4ec512433205b3eec504d62"
+hash = "b39405865b181b4cd1e076e466ab10171805a5c29809407d54df43bbdd5385e5"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "d5822cfd838dddb5670c06507fb84fe392db50e6490c5a4f3b3c4e10480f9178"
+hash = "66e60e285ad12d3ac1b27c930e53a145c07e80204d641870e8ebc5006f9f1003"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "250efb30a8773b5f7335a6b7f4cc707898a495901a49d693aa85caf643994603"
+hash = "e0aa5706fd2c40b97bbc6e24a5a17a289cbc8675c3762c32b398ceecafe3b7f7"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "79a453a0cfa6280c9c337bbf95380f39e11001ad611fa085b2ad74414d110415"
+hash = "397dbdb73d78fd6f2336b8301725d18973e52e23e99e0cadfa707ec292ad05fd"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "571555c231505c113e446748bc7ceb8b9383536f8f9b28c51e97e438576f7e14"
+hash = "5b8b0bbcbb0717d171f7f9716bff8348a7379e126ab7533bfd9848ab12a72afd"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "17b7c08021fc3d2272afad019d182b68f904180406a95aac331a08c416d72053"
+hash = "065fd325d97abc0a7333934c2d12eb75478fbf4108d298f5fd7f84a642fa3d52"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "95fdd2c4ea954cfa59a45c83517f872b64dce9f6dad9f618bd96051ffdb96b16"
+hash = "833b129ff8763e6fbbd1f8ccf3c9733af2c38b86edb8d7c324bfabc456a01fe7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7c55d9379efc8b2bc5dc54ed42555c6cfd68412bdff220cfc5dca40cd2d84ff5"
+hash = "6bdd91424a4237684cdd7013c8076d8c38b2f43906a438111fac70d96b2671a5"
 metafile = true
 
 [[files]]
@@ -122,5 +122,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ab77667b8ab77723c3b9f3e0023ca1e83c46fc2ded0dae1c4e9c43cc8cb6520f"
+hash = "b69327efeb4b30309d3d0d8f8ddd78a8016a3aabc7d3b47084502fbe5bf717cb"
 metafile = true
