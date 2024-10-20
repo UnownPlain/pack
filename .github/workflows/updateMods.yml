@@ -59,9 +59,9 @@ jobs:
           name: UnownPlain's Modpack (Fabric)
           prerelease: false
           files: |
-            fabric/1.21.2/UnownPlains-Modpack-1.21.mrpack
-            fabric/1.21.1/UnownPlains-Modpack-1.20.6.mrpack
-            fabric/1.20.6/UnownPlains-Modpack-1.20.4.mrpack
+            fabric/1.21.2/UnownPlains-Modpack-1.21.2.mrpack
+            fabric/1.21.1/UnownPlains-Modpack-1.21.1.mrpack
+            fabric/1.20.6/UnownPlains-Modpack-1.20.6.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
       - name: Commit changes, if any
         if: ${{ steps.changes.outputs.updated == 'true' }}
