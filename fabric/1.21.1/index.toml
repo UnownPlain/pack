@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "654f97d6eb889f998e5cda5ccf7294154f070503456ce8b8e7804e1f454a1dac"
+hash = "f8116d6f290ba3df13402c0ed99055c1f84173474c5ce12ca8c020c93ea7e591"
 metafile = true
 
 [[files]]
@@ -122,5 +122,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b69327efeb4b30309d3d0d8f8ddd78a8016a3aabc7d3b47084502fbe5bf717cb"
+hash = "e6da0b5cdc560125242bae395eca94ffcea0fb56ae676b3bcf08a290a1496384"
 metafile = true

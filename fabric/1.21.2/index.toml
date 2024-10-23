@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "47ecf4b81b64b29325d5c3c2692cdee20e2389c1710fd4180da04efc01d2addc"
+hash = "9b9ce2b93628b9ac10e5c164e19d36a59035335d4c96d6f7b1b1a59a4b6aca65"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "654f97d6eb889f998e5cda5ccf7294154f070503456ce8b8e7804e1f454a1dac"
+hash = "c811298499f1cbb64229927d00e64ba1dd5af5543913845178a22704893a63b2"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b39405865b181b4cd1e076e466ab10171805a5c29809407d54df43bbdd5385e5"
+hash = "68a570a3cb0da280db7bac92e133886c5c9d16c5c54917178baef11f52b6f73a"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e0aa5706fd2c40b97bbc6e24a5a17a289cbc8675c3762c32b398ceecafe3b7f7"
+hash = "56d22f1c07585ea89cf803478562f555e685b2ee6d820f564cd58e4b6f26126f"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "5b8b0bbcbb0717d171f7f9716bff8348a7379e126ab7533bfd9848ab12a72afd"
+hash = "d8d3985a4b4681b77b38cbebe6f2b398fb5c6228f69e59b045c25ae8d714c8ef"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "065fd325d97abc0a7333934c2d12eb75478fbf4108d298f5fd7f84a642fa3d52"
+hash = "32dd2c38e03b2790f6e3938a19dafd4496f8c1e9996bca25ea62370e190cdc3d"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6bdd91424a4237684cdd7013c8076d8c38b2f43906a438111fac70d96b2671a5"
+hash = "96ae9185dda956b248ccf68b3b6be51725ecaeda2cd3ce270a2c2230d1bf66f8"
 metafile = true
 
 [[files]]
@@ -122,5 +122,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b69327efeb4b30309d3d0d8f8ddd78a8016a3aabc7d3b47084502fbe5bf717cb"
+hash = "914dba7089e44d2df2bd8a63c1bf0a7a21770089022488fad2a6040f83874c4d"
 metafile = true
