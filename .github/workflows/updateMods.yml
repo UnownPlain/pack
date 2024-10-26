@@ -20,7 +20,7 @@ jobs:
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
       - name: Update Mods
         run: |
-          cd fabric/1.21.2
+          cd fabric/1.21.3
           packwiz update --all -y
           cd ../1.21.1
           packwiz update --all -y
@@ -38,9 +38,9 @@ jobs:
       - name: Prepare Modrith pack files
         if: ${{ steps.changes.outputs.updated == 'true' }}
         run: |
-          cd fabric/1.21.2
+          cd fabric/1.21.3
           packwiz mr export
-          mv "UnownPlain's Modpack-1.21.2.mrpack" UnownPlains-Modpack-1.21.2.mrpack
+          mv "UnownPlain's Modpack-1.21.3.mrpack" UnownPlains-Modpack-1.21.3.mrpack
           cd ../1.21.1
           packwiz mr export
           mv "UnownPlain's Modpack-1.21.1.mrpack" UnownPlains-Modpack-1.21.1.mrpack
@@ -59,7 +59,7 @@ jobs:
           name: UnownPlain's Modpack (Fabric)
           prerelease: false
           files: |
-            fabric/1.21.2/UnownPlains-Modpack-1.21.2.mrpack
+            fabric/1.21.3/UnownPlains-Modpack-1.21.3.mrpack
             fabric/1.21.1/UnownPlains-Modpack-1.21.1.mrpack
             fabric/1.20.6/UnownPlains-Modpack-1.20.6.mrpack
             fabric/1.19.4/UnownPlains-Modpack-1.19.4.mrpack
