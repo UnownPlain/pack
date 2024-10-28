@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "66e60e285ad12d3ac1b27c930e53a145c07e80204d641870e8ebc5006f9f1003"
+hash = "4fa63582e2f3c413f84035fecfd9dca0fad7573c49a4052f37d1e32ce6d1f7c6"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "96ae9185dda956b248ccf68b3b6be51725ecaeda2cd3ce270a2c2230d1bf66f8"
+hash = "43d3052ebfa2099ab8dca365e3e8c3b85da4a0d52e60cc9ef700870427ec4487"
 metafile = true
 
 [[files]]
