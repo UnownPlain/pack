@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       relase:
-        description: 'Trigger Modrinth pack files relase'
+        description: 'Trigger Modrinth pack files release'
         type: boolean
         default: false
 
