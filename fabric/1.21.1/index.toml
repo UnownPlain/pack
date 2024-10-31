@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f8116d6f290ba3df13402c0ed99055c1f84173474c5ce12ca8c020c93ea7e591"
+hash = "25ef5995c77b380d72d9a27d202e5fcc18400f762024c843ae80eb46645977b3"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9aba361e6f45e9f48b65ffddce0235ba9476f53ab4c608053b7cc42d181b54d4"
+hash = "a6525a709aea52ee4acc906d5abe1d8bf6d79779d703f6099e3c73a12d6d87c3"
 metafile = true
 
 [[files]]
