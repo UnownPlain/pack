@@ -1,10 +1,13 @@
 name = "MiniHUD"
-filename = "minihud-fabric-1.21-0.31.999-sakura.9.jar"
+filename = "minihud-fabric-1.21.1-0.32.50.jar"
+side = "client"
 
 [download]
-url = "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.9/minihud-fabric-1.21-0.31.999-sakura.9.jar"
-hash-format = "sha256"
-hash = "91972e6528470c5f6e7656fb66161b3aa5921a7b0fbf9b160747bb8367f3a55e"
+url = "https://cdn.modrinth.com/data/UMxybHE8/versions/iChigeli/minihud-fabric-1.21.1-0.32.50.jar"
+hash-format = "sha1"
+hash = "2890dd0517530f3b92ad23d57f162fa3c1ecda7e"
 
-[option]
-optional = true
+[update]
+[update.modrinth]
+mod-id = "UMxybHE8"
+version = "iChigeli"
