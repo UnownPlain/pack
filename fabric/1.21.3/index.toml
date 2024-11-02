@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9d609202c421edabd6cf99aa45634e20ced6df7758bb8b264fbd7d99650568df"
+hash = "e241df978154ed98cc9535513793357289b45ba1ab02434b3585765c47784057"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "065fd325d97abc0a7333934c2d12eb75478fbf4108d298f5fd7f84a642fa3d52"
+hash = "32dd2c38e03b2790f6e3938a19dafd4496f8c1e9996bca25ea62370e190cdc3d"
 metafile = true
 
 [[files]]
