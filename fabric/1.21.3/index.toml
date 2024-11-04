@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "56d22f1c07585ea89cf803478562f555e685b2ee6d820f564cd58e4b6f26126f"
+hash = "7afeb38d8db24774219e5755fd67c63876ab51794ddcbbeb17d567618aacca4a"
 metafile = true
 
 [[files]]
