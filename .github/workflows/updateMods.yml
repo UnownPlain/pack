@@ -1,8 +1,5 @@
 name: Update Mods
 
-env:
-  MINECRAFT_VERSIONS: '1.21.3 1.21.1 1.20.6 1.19.4'
-
 on:
   schedule:
     - cron: '0 0 * * *' # Daily at midnight
@@ -19,7 +16,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
       - name: Setup Packwiz
         run: |
@@ -27,6 +25,9 @@ jobs:
           unzip /usr/local/bin/packwiz/\*.zip -d /usr/local/bin/packwiz
           chmod +x /usr/local/bin/packwiz/packwiz
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
+
+      - name: Get Versions
+        run: MINECRAFT_VERSIONS=$(ls -d fabric/*/ | cut -f2 -d'/' | tr '\n' ' ')
 
       - name: Update Mods
         run: |
