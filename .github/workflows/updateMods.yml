@@ -27,7 +27,7 @@ jobs:
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
 
       - name: Get Versions
-        run: MINECRAFT_VERSIONS=$(ls -d fabric/*/ | cut -f2 -d'/' | tr '\n' ' ')
+        run: echo "MINECRAFT_VERSIONS=$(ls -d fabric/*/ | cut -f2 -d'/' | tr '\n' ' ')" >> $GITHUB_ENV
 
       - name: Update Mods
         run: |
