@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6dc4c5929abde03e6f5b952b6dd2a4f36522c2b9a886ad6f5027afffed964bb1"
+hash = "4d3eaba2cb6691557f7ed900bc42aa5bf76f150fd36e86d93f7f81155c0be301"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7afeb38d8db24774219e5755fd67c63876ab51794ddcbbeb17d567618aacca4a"
+hash = "1d401e632dce7b10daa41caeaa4fcf102ce9c7adebef284a82f96b29eeaf9e0c"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "188816f96febfb031078525443b24cb29c57b98132443406f2834980121ec9a8"
+hash = "a2a61f5dacaf40957cf7742f08d0a0f8be75df2cdb0940f833ba988f9b0caf3e"
 metafile = true
 
 [[files]]

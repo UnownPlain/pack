@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bb33ddf96fc72351f824eb3946d8f3e08a2d29964e5fe533e7c5d1006db7a578"
+hash = "b878d3f90dfcb926987f468debcfafb673776d45238d4c918d791d3057eddb17"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "cbcdf97e1c442a6b0c51dbae6f5fbf86711d9cdc6ab977782e7f0c0e0608911b"
+hash = "a2a61f5dacaf40957cf7742f08d0a0f8be75df2cdb0940f833ba988f9b0caf3e"
 metafile = true
 
 [[files]]
