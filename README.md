@@ -13,7 +13,7 @@ A Fabric modpack for Minecraft mods I use.
 ### Prism Launcher & MultiMC (auto-update)
 
 > [!NOTE]
-> This has only been tested to work with Prism Launcher 8.3
+> This has only been tested to work with Prism Launcher 9.1
 
 1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
 2. Drag and drop the instance into the launcher
