@@ -11,3 +11,6 @@ hash = "891a8068612dfb358306cfab6bb87b305467eaed7ad831c052b7abd752619e3318978fe9
 [update.modrinth]
 mod-id = "UMxybHE8"
 version = "AjJCjuIP"
+
+[option]
+optional = true
