@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1IjD5062/versions/MfBeYvQa/continuity-3.0.0-beta.5%2B1.19.4.jar"
-hash-format = "sha1"
-hash = "39d52b52fde96027a7d36c70b4f39317904d567e"
+hash-format = "sha512"
+hash = "f2dd46aa168e82bd8d2d10a413179e1a26aa049152a553daa326671867a0b8dbd62d3b97dbce45dace5f8c59f2dc4f8c3afb36dee921d1ef6cae281358ab1d54"
 
 [update]
 [update.modrinth]

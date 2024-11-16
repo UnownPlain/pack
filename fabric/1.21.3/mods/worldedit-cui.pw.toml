@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NSLJJooQ/versions/MsivFd3o/WorldEditCUI-1.20.3%2B01.jar"
-hash-format = "sha1"
-hash = "8771aab5954e90800677662e8378e0c5067d03a0"
+hash-format = "sha512"
+hash = "7d1dee100a1106c99716f56e09e27f65510f2346bb436481bc45620c693348f8bc8661a8b0143fe335d9930525dbcdd8369dcb34f08b9d6962856bbfab0307e6"
 
 [update]
 [update.modrinth]

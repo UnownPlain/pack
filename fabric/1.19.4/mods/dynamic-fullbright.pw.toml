@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tF7P4IlX/versions/LN3Qkl2R/dynamic-fullbright-1.0.1.jar"
-hash-format = "sha1"
-hash = "d417e6191514548cfe1a66af9a457fe478a4786b"
+hash-format = "sha512"
+hash = "a46b837f399ad03064c6a35ede867396e16f0ba668a299167671da4a728fd1edd5b391ed04b8f672f8eb6ff241cc412c2efcf4ffb88d1ea48cb931861452b846"
 
 [update]
 [update.modrinth]

@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "a623f678616d0725b5256f1979ff4e5cfb54712273c2077dc53395c447ee60cd"
+hash = "01b952aa1ffe7d90c82ec248afa1b1f1778339853f585349a7f29ffbbff78846"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "71a79329404c3ff4b4c837056be14dd84bcebf0f04b132ba451c28c5f477d027"
+hash = "011c3721e64c271d74167fd789c3530faab21219043a936a2b6ad07772855680"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "1e329db147b21cdaae60d344b8e73435d43a6ed5713464a59de23925d93646a0"
+hash = "48e79e0c61ad861001a5548771da474d5ef4c9b717beeb21a4fe0dabe2432347"
 metafile = true
 
 [[files]]
@@ -51,6 +51,11 @@ hash = "4fa63582e2f3c413f84035fecfd9dca0fad7573c49a4052f37d1e32ce6d1f7c6"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "1989dfcc9c89cad6ee99095b16fdaf4ad22dc6789464839e3e175a401b367496"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2f82c4f404c8633c881ad43756aafe3a4615d22038ee4219caf88f6ac5040f91"
 metafile = true
@@ -67,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
+hash = "4067d08eaf1cfb5c95387a1883ed6ccb03a36bab26265a3890daac60aa6fabc6"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "942fbf825b6090fbc4622de3719bb62ff6acf7ba8faa1a573b8f7c832baf6b7d"
+hash = "f3e423436082cffd0019ed9a84076bd52760583a8c181368e663b8d65ea2630c"
 metafile = true
 
 [[files]]
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "ad2225a8f220d5bf774cb0dac6e6884dfd7df8f1570c07369b23974a3234e8e5"
+hash = "0b3617c0de22d5fac5dff99b18f2a66c40180d74022c87d50dbe2a7983e26679"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
-hash = "a792559c085a063f03b63b6f5d9cd40b5d6364e9cf30e304a60609a2c4a0d5ba"
+hash = "82e3f8838687696622da22650b87519746e079a98f130e206ae604c12d5b6990"
 metafile = true
 
 [[files]]
@@ -112,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "07a0f1bdea6f1759d91b4e9d496c709ec4e0cd1639e2598f3a6243714e9f0be3"
+hash = "5432da55e787449bc38b1de6ff3715643e3ebdae4fd3fdddc8f7f19311309a28"
 metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "bccce55ebe49e2e6a6aba5123bc71c40dd8a9978249df4ee144c5ff6b70cfce0"
+hash = "2a4fee9f7d8cc2aa95a1d294dab6a2dee448074d4693d1b670a426bde55efb27"
 metafile = true
 
 [[files]]

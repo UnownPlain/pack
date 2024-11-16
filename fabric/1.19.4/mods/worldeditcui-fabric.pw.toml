@@ -3,8 +3,8 @@ filename = "WorldEditCUI-1.19.4+01.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "acafa4945dbaaad0c1dfe6657973b436e94cbf7d"
+hash-format = "sha512"
+hash = "99b532a86ba1821ca9e07b78449d848d0e72701c3ab693215c03769ebf7fd8a220f175e0707fb4ca0768e452a81254896fc38af4513cb731ff63184d38562be0"
 mode = "metadata:curseforge"
 
 [update]
