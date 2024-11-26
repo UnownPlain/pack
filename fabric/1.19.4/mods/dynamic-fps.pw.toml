@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/1BXdozG3/dynamic-fps-3.7.6%2Bminecraft-1.19.4-fabric.jar"
-hash-format = "sha512"
-hash = "bcbcd352d9c24303f99b43be2ee37df0d26566b566eb9bc7308f29023ca132ac1c1a2309e9612ae4b563f95b33f2de2f3e92cb6659b6b5ffa403b5527829c311"
+hash-format = "sha256"
+hash = "3d1674b05db2a483655182e83683e12ac13c54a44f15b367d3466991cab04ad1"
 
 [update]
 [update.modrinth]

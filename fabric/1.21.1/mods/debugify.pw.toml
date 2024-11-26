@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
-hash-format = "sha512"
-hash = "079e7bd774abf7e25a916b5d4bb8f08d0176a72881497be80bb48ca89a0c1317f9c347c46911c452ea5f71fe2514d7780b5b8e339a61b07c5c4fc7b5cecdb41d"
+hash-format = "sha256"
+hash = "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
 
 [update]
 [update.modrinth]

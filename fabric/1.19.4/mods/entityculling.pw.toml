@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/HTvBVCkY/entityculling-fabric-1.7.1-mc1.19.4.jar"
-hash-format = "sha512"
-hash = "6c85a24c3965df9ca1c5be0ce73c3d0163716f1de2d1fc9081bd6bb1deb11beea6b8ee956bc13c4f700044fff197036b1d2b7f598d0ddfcd6779ec7acbfa0b83"
+hash-format = "sha256"
+hash = "e6caf12e53773fa0e9b9306922ff57510bd695ce0635fc36566175ad71f3c1b5"
 
 [update]
 [update.modrinth]
