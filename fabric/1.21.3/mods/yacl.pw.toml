@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/HlJ8azv1/YetAnotherConfigLib-3.6.1%2B1.21.2-fabric.jar"
-hash-format = "sha512"
-hash = "3efec2e9f278c87399bceec1258cd7ea2454e468308e5eaddf9644f35d93bdc1736c105d01d7d4c6e95323e49f97cd802594bd622e477c351e00e6f69a9556eb"
+hash-format = "sha256"
+hash = "ed8ecbb6a569a7be8735713abedd6975d09df6a3a5f532636dccff2258a42a56"
 
 [update]
 [update.modrinth]
