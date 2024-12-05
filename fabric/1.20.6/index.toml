@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "aba69f51996a030044787725d0061fd611ebba26e258bc842a1f0d30ddc27fd2"
+hash = "ede547221591554addf846d385722d13fd46ee84585743e4b0674bff8ce14e2c"
 metafile = true
 
 [[files]]
@@ -122,5 +122,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "aa1efad64b60d8c0c6f968c71c9c3d621d6aa636367b163da0404f56215e374e"
+hash = "99f7de3fa2e404843c4534de465bbcbced7aa6d4bb63e7234e28760a71d1ed1e"
 metafile = true
