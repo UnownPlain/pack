@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "966b627cf6db6fa23bfd58a2c09f6bc2801b616f2d3085679803ecdc16f1c852"
+hash = "c7b39e858a5316169ffba61dac0f01738a4162ea1dca0c0d5512ab8137c37ca6"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "5f900b9cdb97276a75b8d8ea4dc53f7a42a2a9ff0dc427defea8171435437749"
+hash = "4fa63582e2f3c413f84035fecfd9dca0fad7573c49a4052f37d1e32ce6d1f7c6"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "af5821b203119b5e6c42372bd4d1cada3b7c0d37df13b9b2329f19d3aaad7d99"
+hash = "9319e3c4801c9552155f9e75c448094ca54bbda63448886d502f530721138ce0"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "67e1f686e569aa19b3138ae1ecaf5510d32ab7d2599a2adec0705dacb0ceaa0f"
+hash = "8373befd5c75e7e287a6bf17bccb9459100745b5da3dd45988ec355a12732d40"
 metafile = true
 
 [[files]]
