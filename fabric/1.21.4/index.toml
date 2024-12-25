@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "31dd5e15a9268ee287b19b550a9e467a4037706726af8737dbf5e92d3be8a663"
+hash = "85145e4e904bfa50257cc7fa4ff0dc6da09f8f536326463e488f74e607fa7a86"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f86a1824c12bb318f220258eaa7634c710ea57e35de50a06a243dd3f4b49f380"
+hash = "9cdcc2689065e8e15fd020297a27eb4825dc0c3bcbe95c4e532ba3954676aff1"
 metafile = true
 
 [[files]]
