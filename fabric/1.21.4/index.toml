@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2979f37874f7c7cb8c468db5aab0b0b5097a23a4f81908118dc061d9d20da2d1"
+hash = "0c38bac7653f30e93f25378c27f04c536086522907b6407a1d99e2db66cfe063"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9319e3c4801c9552155f9e75c448094ca54bbda63448886d502f530721138ce0"
+hash = "76e4f75c5e99ece7f354d75eb17a9ba210f4aeecfbc42ea1a44a1ac5621ac48e"
 metafile = true
 
 [[files]]
