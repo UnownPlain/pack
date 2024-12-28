@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2dda13fda817c38b924b2fe2dd3638070e914ef0a01478962cf0abdca3adb7b0"
+hash = "b09e2435913d459c13176096a6abd3bce6207107fc964914804231c04b0e9861"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "9cdcc2689065e8e15fd020297a27eb4825dc0c3bcbe95c4e532ba3954676aff1"
+hash = "8fb0dafecfac2c85cd5dc59cf9b70e9aa2efb8f19c71242a62d4dc5963fa6d8e"
 metafile = true
 
 [[files]]
