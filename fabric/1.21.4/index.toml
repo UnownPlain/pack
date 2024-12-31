@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "85145e4e904bfa50257cc7fa4ff0dc6da09f8f536326463e488f74e607fa7a86"
+hash = "5a62fe4f7c5956f8c2aefd8a08bfc1a9ac2f8865462f790c2a2b3bd21b48f2ba"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6b9335f900a8816af6207dcdf1a822be48969f1c0d7cfc32c3532746559ad270"
+hash = "27b502be04f2da2fd73e62b22974666c0648cb13c0ede1db71ed3772bcc2e741"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8fb0dafecfac2c85cd5dc59cf9b70e9aa2efb8f19c71242a62d4dc5963fa6d8e"
+hash = "1739ed26739bf8b078c9978d2a9f8705e70164150eac0dcfaeb7bc0cc1ffcb58"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "065fd325d97abc0a7333934c2d12eb75478fbf4108d298f5fd7f84a642fa3d52"
+hash = "07d6cfbe6fb42126f2f31a7ded6b9de12aa6da91c62c9640222b4bb241b5faff"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "30add5c16ed695e22b189b65f614e24a60276933dada14ba0470e1ede8700cf4"
+hash = "2dd497ce7de248abb3a347f3f649cb873a08ebe835af912eed907dabaf0e075d"
 metafile = true
 
 [[files]]
