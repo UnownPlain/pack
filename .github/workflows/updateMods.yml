@@ -28,6 +28,10 @@ jobs:
           chmod +x /usr/local/bin/packwiz/packwiz
           echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
 
+      - name: Setup Go If Download Failed
+        if: steps.dl.outcome == 'failure'
+        uses: actions/setup-go@v5
+
       - name: Compile Packwiz If Download Failed
         if: steps.dl.outcome == 'failure'
         run: go install github.com/packwiz/packwiz@latest
