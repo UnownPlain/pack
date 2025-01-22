@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3f2d1d7d1829b3185afd82f00ce8a0cc9d51a0cc681bf74b3192187b846316f7"
+hash = "d346aa68f7173cd06ddc955d57e258e5925fa7fe068c6552437bac9f07a217b8"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b4f5e61377a37ea04541a7123c05e6e5307645e490e270a2a212bb70110d5bb2"
+hash = "98c7d97d1d8013d83422a0b041006959899ea5a969b4ed42b4a81a4d563a3fa7"
 metafile = true
 
 [[files]]
