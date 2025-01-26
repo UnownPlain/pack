@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d4db4b773aa446e7d27df81c0730a779c745405a0e4bd6505fedc40812047a21"
+hash = "53640edc3c307a48ef2c00b43e4d5caae86805dc490c087202f8033acd6ae946"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3bb0dbc6ab0250890e82b8f5bb62b1ae691a1c7cb17ccacafb3442e12a800102"
+hash = "d622750e53a965371f4510862fea5db0e89e706cfb05378de2e38ca1a42bec46"
 metafile = true
 
 [[files]]
