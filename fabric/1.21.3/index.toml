@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a2100c3c0529f24f95e9f80494ac7ffca471c7290102d652d3710b5d62f10052"
+hash = "d197531ec0b5c153810da9d91600cc35fd3c1d714c3448e2cdc770b071b0dbaf"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6fb0699e27aa9181b3d3e5a84c7f845749c181473ed1c4726534ec52a029a042"
+hash = "50332b22c4d41864e5262f1250b8cf12c0e03ee7418013ce1c4cd18038916b44"
 metafile = true
 
 [[files]]
