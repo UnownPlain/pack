@@ -1,0 +1,16 @@
+name = "WorldEdit CUI"
+filename = "WorldEditCUI-1.20.3+01.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NSLJJooQ/versions/MsivFd3o/WorldEditCUI-1.20.3%2B01.jar"
+hash-format = "sha256"
+hash = "5a97c27a87d6038e98cadbb30a53cb0f32111742efc5db50f4c7224eb4cf11e4"
+
+[update]
+[update.modrinth]
+mod-id = "NSLJJooQ"
+version = "MsivFd3o"
+
+[option]
+optional = true
