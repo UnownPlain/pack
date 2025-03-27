@@ -5,7 +5,7 @@ on:
     - cron: '0 0 * * *' # Daily at midnight
   workflow_dispatch:
     inputs:
-      relase:
+      release:
         description: 'Trigger Modrinth pack files release'
         type: boolean
         default: false
@@ -65,7 +65,7 @@ jobs:
           git push origin
 
       - name: Export Modrinth packs
-        if: steps.changes.outputs.updated || inputs.relase
+        if: steps.changes.outputs.updated || inputs.release
         run: |
           for version in $MINECRAFT_VERSIONS; do
             cd fabric/$version
@@ -75,7 +75,7 @@ jobs:
           done
 
       - name: Release modpack
-        if: steps.changes.outputs.updated || inputs.relase
+        if: steps.changes.outputs.updated || inputs.release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: Modpack
