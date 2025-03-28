@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "35c513c6fc53502a4eef65c6f1623b3bdc9a298e8e6ec39f7b401fa4091a14e2"
+hash = "f4609e7f916e4005bae053b90b83d62e9bfe3287f01ce26701723e91c0528eee"
 metafile = true
 
 [[files]]

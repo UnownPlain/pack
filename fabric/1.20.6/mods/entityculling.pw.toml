@@ -1,16 +1,16 @@
 name = "EntityCulling"
-filename = "entityculling-fabric-1.7.3-mc1.20.6.jar"
+filename = "entityculling-fabric-1.7.4-mc1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/5AHrqDAC/entityculling-fabric-1.7.3-mc1.20.6.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/WiyavApn/entityculling-fabric-1.7.4-mc1.20.6.jar"
 hash-format = "sha512"
-hash = "80c350aa50b120d1c6ed77ac9a58633b0bef73a404691c3995cfd9957cb6460924b386f8446c39661cf60181b7c5ceb8ff383433f523e43bb733f1b465e58b54"
+hash = "f424ab8aa12980b5f2d2f8d28a54e1d44653e5ed078ecd41f731c8466fa0a47be95d857415fe15245345a15e2c78422eb252fe72b2881a8602bd589670e9e1c2"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "5AHrqDAC"
+version = "WiyavApn"
 
 [option]
 optional = true
