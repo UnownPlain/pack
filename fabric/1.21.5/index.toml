@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "939636d5fe3f15a6fed78047336f04b016a329bf613df00dbf23a48d18a0feb6"
+hash = "f93914e7a8a2de83ac54327047602b701880001e496aff39155e472b013127e9"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f4c4ea6a9a290dd1f7f45598d8756950a4bcfa69db83c55140e395509a875f49"
+hash = "3f6c250c021476a5d7bff6418d977da36865c22b2335a7d185a8f0126aa90e1d"
 metafile = true
 
 [[files]]
