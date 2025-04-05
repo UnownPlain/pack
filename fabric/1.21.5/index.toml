@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "c7b39e858a5316169ffba61dac0f01738a4162ea1dca0c0d5512ab8137c37ca6"
+hash = "520978365af1827031cccfed80b3bcc5274c12336ae539e858a81eff23bdbe1a"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "afd9cc8a9442192858fd6d0e7c500f58f2362494f1939fd1823ddb014690ec0d"
+hash = "6a924fcea3d6d2cd0d56d22aff71d533db613e9476b924db0c961f58721a013d"
 metafile = true
 
 [[files]]
