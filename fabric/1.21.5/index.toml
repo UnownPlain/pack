@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "98cc5db84d3706ca866937abe8b2cd6b45a2206d9f94be10ca86ed3e2d6cd766"
+hash = "3cf5dd0e813ca63fa5f0b42cf7b9d77d3ae6664b34d2807e7c241e09c5138b7a"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9c779322df6750f1a66b40a80006d080ec4972d218d85ea7c314be95d6ba2d4e"
+hash = "eb95916bef3dd99ec654f28356f238233f0175d8b1a723229a566c2810995f55"
 metafile = true
 
 [[files]]
