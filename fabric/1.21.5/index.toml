@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "4ca20654c24fab833948b8a815aa53ed9aaf19cac012c05f9ef03523a3877912"
+hash = "bc1608222a3cd79fb09ae50fb313ca0233e2d9d32089e7881b320b9e8fb74ec6"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f6c250c021476a5d7bff6418d977da36865c22b2335a7d185a8f0126aa90e1d"
+hash = "42528da193e8929a7630647331970ea33b72a05156fa407b313a2f28af184fce"
 metafile = true
 
 [[files]]
