@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dc63558072731bbda6c4f494895148853bce24d94af849d8512537b67cb08825"
+hash = "ba3f45105efb7eb71f7402cbb873ba889adf55f3185f40fdf0adbff70413f649"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
+hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
 metafile = true
 
 [[files]]
