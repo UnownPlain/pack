@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e29ff578d3392b079f5b624f30e456e24d3ab7bf445120b93a342ad0df7692df"
+hash = "0696e83d304a7d93375d1c72f4f6cde0b4a035da9170afbb0a598cfd09ca4b1a"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "fe84b2485d326c789a5c3250a06f517312948e7ed3edaaee3539aa13b0af94ea"
+hash = "f9ad27de802f7e212a463807f1c5ea8359d7452c17ad89cf810120179ff00cb0"
 metafile = true
 
 [[files]]
