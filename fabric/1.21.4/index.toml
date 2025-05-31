@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f5bfd77ddca5d2b2848555e59a76ef39d6bf4f382d39513d69390b174e5921c3"
+hash = "21be224aaa9ab73560b63b4796f3b83746ebb1cfc814a0af8ae6e10032feac69"
 metafile = true
 
 [[files]]
