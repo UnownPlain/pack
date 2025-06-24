@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b72f4d2c4d39deb204f543a67734d4eb7996df466e230edeb9623934c0ebf392"
+hash = "61861e4ecf031e6eb1d1947a59edacdc6f4afa2557f393bde4abf391f00dbcaf"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "f9ad27de802f7e212a463807f1c5ea8359d7452c17ad89cf810120179ff00cb0"
+hash = "81cd39a74806173d7c11d5f62135d3991e5a61118954a085443083ba79dbfac1"
 metafile = true
 
 [[files]]
