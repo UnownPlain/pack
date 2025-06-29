@@ -2,7 +2,7 @@ name: Update Mods
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at midnight
+    - cron: '43 4 * * *'
   workflow_dispatch:
     inputs:
       release:
@@ -12,33 +12,28 @@ on:
 
 jobs:
   update-mods:
-    name: Update mods
+    name: Update Mods
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
-
       - name: Setup Packwiz
         continue-on-error: true
         id: dl
         run: |
-          wget -P /usr/local/bin/packwiz https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
-          unzip /usr/local/bin/packwiz/\*.zip -d /usr/local/bin/packwiz
-          chmod +x /usr/local/bin/packwiz/packwiz
-          echo "/usr/local/bin/packwiz" >> $GITHUB_PATH
-
-      - name: Setup Go If Download Failed
+          wget -nv -P /usr/local/bin/ https://nightly.link/packwiz/packwiz/workflows/go/main/Linux%2064-bit%20x86.zip
+          unzip /usr/local/bin/*.zip -d /usr/local/bin/
+          chmod +x /usr/local/bin/packwiz
+      - name: Setup Go
         if: steps.dl.outcome == 'failure'
         uses: actions/setup-go@v5
-
-      - name: Compile Packwiz If Download Failed
+      - name: Compile Packwiz On Download Failure
         if: steps.dl.outcome == 'failure'
         run: go install github.com/packwiz/packwiz@latest
-
       - name: Get Versions
-        run: echo "MINECRAFT_VERSIONS=$(ls -d fabric/*/ | cut -f2 -d'/' | tr '\n' ' ')" >> $GITHUB_ENV
-
+        run: echo "MINECRAFT_VERSIONS=$(ls fabric/ | tr '\n' ' ')" >> $GITHUB_ENV
       - name: Update Mods
         run: |
           for version in $MINECRAFT_VERSIONS; do
@@ -46,25 +41,21 @@ jobs:
             packwiz update --all -y
             cd ../..
           done
-
-      - name: Check for changes
+      - name: Check For Changes
         id: changes
         run: |
           if [[ -n $(git diff) ]]; then
             echo "updated=true" >> $GITHUB_OUTPUT
           fi
-
-      - name: Commit changes
+      - name: Commit Changes
         if: steps.changes.outputs.updated
-        run: |
-          git config user.name "UnownBot"
-          git config user.email "gitbot@unownplain.dev"
-          git pull
-          git add .
-          git commit -m "Update mods"
-          git push origin
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: Update Mods
+          commit_author: UnownBot
+          commit_user_email: gitbot@unownplain.dev
 
-      - name: Export Modrinth packs
+      - name: Export Modrinth Packs
         if: steps.changes.outputs.updated || inputs.release
         run: |
           for version in $MINECRAFT_VERSIONS; do
@@ -73,8 +64,7 @@ jobs:
             mv "UnownPlain's Modpack-$version.mrpack" UnownPlains-Modpack-$version.mrpack
             cd ../..
           done
-
-      - name: Release modpack
+      - name: Release Modpack
         if: steps.changes.outputs.updated || inputs.release
         uses: softprops/action-gh-release@v2
         with:
