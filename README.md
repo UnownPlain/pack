@@ -13,11 +13,11 @@ A Fabric modpack for Minecraft mods I use.
 ### Prism Launcher & MultiMC (auto-update)
 
 > [!NOTE]
-> This has only been tested to work with Prism Launcher 9.1
+> This has only been tested to work with Prism Launcher 9.4
 
 1. Download the instance [here](https://github.com/UnownPlain/pack/releases/tag/Modpack-Instances)
 2. Drag and drop the instance into the launcher
-3. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with one of these versions: 1.19.4, 1.20.6, 1.21.
+3. Click `Edit` -> `Settings` -> `Custom Commands`, then in the `Pre-lanuch command` field replace `{MCVERSION}` with a version in [this folder](https://github.com/UnownPlain/pack/tree/HEAD/fabric).
 4. When you first lanuch and the packwiz installer window comes up, click optional mods, select the ones you want and click ok
 
 When launching Minecraft, your launcher should update your mods.
