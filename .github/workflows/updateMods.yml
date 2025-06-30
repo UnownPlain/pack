@@ -54,6 +54,7 @@ jobs:
           commit_message: Update Mods
           commit_user_name: UnownBot
           commit_user_email: gitbot@unownplain.dev
+          commit_author: UnownBot <gitbot@unownplain.dev>
       - name: Export Modrinth Packs
         if: steps.changes.outputs.updated || inputs.release
         run: |
