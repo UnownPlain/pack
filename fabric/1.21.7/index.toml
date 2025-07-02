@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "11bd975df12dd531accfbcda522e91eae40d825257b1344bf4e414a56678938f"
+hash = "6503db398f837996699e119e918ae459de38093bb74a6b209bfe18a64b43b743"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "e64c904594eae001547a774b8a8f75ca934cf6feea78c45cb70405aca18a2f75"
+hash = "a0ab28136008c291b4dfa2d8bcc37a9fea254b79bdae35d0006a29065bb38864"
 metafile = true
 
 [[files]]
