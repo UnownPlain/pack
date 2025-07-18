@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bbc97d077e3b638fe97bfffb429d3b6d548cb9f52783109b3a125bc56d239d7d"
+hash = "6c58e411f36443e460381f1deeb4aa984c3809aa8d27f3e796bf62dfc70eb7f1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a43d24211bda01f0f8c42b4b2edeba2938b4da1d5fa9f7edffcb7b82e049c809"
+hash = "8c9de18c19436f030722c7b88b69f9ee0227f43f1af7b98b37f017f2071949ec"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b7c7939da66952a5fd56aa2be50775e34f578bd00abb1b205d2ac2aee9af2690"
+hash = "bad2cd71490a5c43a784adb37bc6ad1019d1ad093878f2776627c1fd5ea31b20"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "34c05235de6cef0da8d348737df80022b3e215a1b0b571a4fdbae61ed5b7da69"
+hash = "08126c2201f7791d00b7358f7f90d3c88cb1f2560c0931f325b8744d9af2ea4e"
 metafile = true
 
 [[files]]
