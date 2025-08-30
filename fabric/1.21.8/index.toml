@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "88f1bf289e084b948e26092e751439fb940b67a4aa40dd009958f3960b3d8b58"
+hash = "de817364164a7b42350a474be505640ed835944ae80b348de5ae369d8254e128"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "e76a7e0fd8a6e81c3f131e4fdc96c9cef74b2792b3803b77e11ea0a29b752e29"
+hash = "af8dca46b87d05a4487a40b9bd901ddffcbf3d83d0e4401a85b94d0e537c262d"
 metafile = true
 
 [[files]]
