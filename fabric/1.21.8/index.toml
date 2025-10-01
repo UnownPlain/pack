@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d136d7803dfd13e943e81b9031a7cb3efc4455d17b7ed57f76188a747fe66e3f"
+hash = "dba46da40cc916f5f95d0062e54255d61bb9cebb4800bd0412eeed6851c3e1f6"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "77275b7ea13ad85567db5dfc2ed7e77ce7f1730d50641a33e41320e6030f424b"
+hash = "50e1d92bab9ca08df95a96523c419092ba1a6983d07b5b1223c86158113c5915"
 metafile = true
 
 [[files]]
@@ -102,17 +102,17 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "db609692e948a01aab02db9458b0a7764661eea458711cc3742b3b3660bd5a4d"
+hash = "414ea56cb2275ee0988686fd72e9aa042f2c12ff66b1544a9cfd1fe54b45e02c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5cf4df076da3c1fee073995d28c68e3567273091b0d6cb66e758a5f0a3e5f5c2"
+hash = "cf127261201c0926d0d2963b2a55b18ad50c008902596f05cb382fd21de54712"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4029d6b22c8881fa1c327d5cae4e8eebfb3ff6cb9ab192d9f64ba5fd7798247f"
+hash = "0e3feaa789cd0c4db92e92f769963a1f7281ac59a16668b04f4e681ac34d97a6"
 metafile = true
 
 [[files]]
