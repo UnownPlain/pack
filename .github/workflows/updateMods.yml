@@ -2,11 +2,11 @@ name: Update Mods
 
 on:
   schedule:
-    - cron: '43 4 * * *'
+    - cron: "43 4 * * *"
   workflow_dispatch:
     inputs:
       release:
-        description: 'Trigger Modrinth pack files release'
+        description: "Trigger Modrinth pack files release"
         type: boolean
         default: false
 
@@ -18,7 +18,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Setup Packwiz
         continue-on-error: true
         id: dl
@@ -33,39 +33,33 @@ jobs:
         if: steps.dl.outcome == 'failure'
         run: go install github.com/packwiz/packwiz@latest
       - name: Get Versions
-        run: echo "MINECRAFT_VERSIONS=$(ls fabric/ | tr '\n' ' ')" >> $GITHUB_ENV
+        run: echo "MC_VERSIONS=$(ls fabric)" >> $GITHUB_ENV
       - name: Update Mods
         run: |
-          for version in $MINECRAFT_VERSIONS; do
+          for version in $MC_VERSIONS; do
             cd fabric/$version
             packwiz update --all -y
             cd ../..
           done
-      - name: Check For Changes
-        id: changes
-        run: |
-          if [[ -n $(git diff) ]]; then
-            echo "updated=true" >> $GITHUB_OUTPUT
-          fi
       - name: Commit Changes
-        if: steps.changes.outputs.updated
         uses: stefanzweifel/git-auto-commit-action@v6
+        id: commit
         with:
           commit_message: Update Mods
           commit_user_name: UnownBot
           commit_user_email: gitbot@unownplain.dev
           commit_author: UnownBot <gitbot@unownplain.dev>
       - name: Export Modrinth Packs
-        if: steps.changes.outputs.updated || inputs.release
+        if: steps.commit.outputs.changes_detected == 'true' || inputs.release
         run: |
-          for version in $MINECRAFT_VERSIONS; do
+          for version in $MC_VERSIONS; do
             cd fabric/$version
             packwiz mr export
             mv "UnownPlain's Modpack-$version.mrpack" UnownPlains-Modpack-$version.mrpack
             cd ../..
           done
       - name: Release Modpack
-        if: steps.changes.outputs.updated || inputs.release
+        if: steps.commit.outputs.changes_detected == 'true' || inputs.release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: Modpack
