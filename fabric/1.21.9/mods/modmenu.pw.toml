@@ -1,0 +1,16 @@
+name = "Mod Menu"
+filename = "modmenu-16.0.0-rc.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/e0mxOOIE/modmenu-16.0.0-rc.1.jar"
+hash-format = "sha1"
+hash = "c927187d11cb6db2d3daad2a24899f1a70a1618f"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "e0mxOOIE"
+
+[option]
+optional = true

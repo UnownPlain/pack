@@ -1,0 +1,16 @@
+name = "Tweakeroo"
+filename = "tweakeroo-fabric-1.21.10-rc1-0.26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/t5wuYk45/versions/xmZbWzmz/tweakeroo-fabric-1.21.10-rc1-0.26.1.jar"
+hash-format = "sha1"
+hash = "30e7d677693e162058c0b31d6a9bf45acaf2256b"
+
+[update]
+[update.modrinth]
+mod-id = "t5wuYk45"
+version = "xmZbWzmz"
+
+[option]
+optional = true
