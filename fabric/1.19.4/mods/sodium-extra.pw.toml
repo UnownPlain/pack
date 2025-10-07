@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/YknbqkHe/sodium-extra-0.4.18%2Bmc1.19.4-build.100.jar"
-hash-format = "sha256"
-hash = "2815b619d38e2ead26133cac934fba972b58efdd874cdab05e8fc01e431e8595"
+hash-format = "sha512"
+hash = "20a4b8aaae0462a408c3222bf41c14d44cee116e4037d8161f7c17e6329b558765f8c6732e0b97abb0273f4be1fb98685f9fa35b2d6dfb7a138ed7d17dfac331"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/ISvVqTAo/ImmediatelyFast-Fabric-1.3.0%2B1.20.6.jar"
-hash-format = "sha256"
-hash = "c74bc5bcf5272e014d27899fa475272a38f393ad55a35b5fd4df8419d32b4fb3"
+hash-format = "sha512"
+hash = "f3caddb282f28109bc37daf20edf13062766c0525afef0cb6719247aeb2bae3ad8c6c1ce1b5af874eabfce568cd376f3e3d6c09e593d8c731f5be14a30f5e4c2"
 
 [update]
 [update.modrinth]

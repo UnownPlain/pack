@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UMxybHE8/versions/CNq8akV2/minihud-fabric-1.19.4-0.26.2.jar"
-hash-format = "sha256"
-hash = "91f717cd62e48f66a0a7998126ba036deaa71d831b8d7ff7f2a160f07814ca94"
+hash-format = "sha512"
+hash = "9ef86035c8d005d8a68e9289d409f614c84ec3e24bec007ea3c3d528a73030769936ce42afa9b21669d5ee6d84d7927725df7bd99b5b8dc92cc10881ddb3b30b"
 
 [update]
 [update.modrinth]
