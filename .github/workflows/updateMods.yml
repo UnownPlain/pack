@@ -33,7 +33,7 @@ jobs:
         if: steps.dl.outcome == 'failure'
         run: go install github.com/packwiz/packwiz@latest
       - name: Get Versions
-        run: echo "MC_VERSIONS=$(ls fabric)" >> $GITHUB_ENV
+        run: echo "MC_VERSIONS=$(ls fabric | tr '\n' ' ')" >> $GITHUB_ENV
       - name: Update Mods
         run: |
           for version in $MC_VERSIONS; do
