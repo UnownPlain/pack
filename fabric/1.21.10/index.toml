@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "331cec7f6ef848cc8127fadcff3b1758d89c3606ffdfd73ca0928251d6fb65ba"
+hash = "2912d0f04983e088d19266b6b70ec08ff3058141cd7f5b420d59cf07d8a89816"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "d2db0fcd4e16461521effcb812d34daa1719ae2729640a23c5fb88316b2189b2"
+hash = "e7c1cce42df3843aea82c5cde390584b8aac4d7f499b73589938e0009ba9fc25"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "fe05bce96aa38e9de7c37f6c8cdb97dd0bc6be9a2f4862a90a05a4688abe78a4"
+hash = "7055eb8ce1d8f392f39fd9e3723032ef8371ea8a65f53d992d04ef7d4e3a0a08"
 metafile = true
 
 [[files]]
