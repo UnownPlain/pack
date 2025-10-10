@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1a36c55743904c0de091512607074e801b7a78f770da503ad16df27af367fa39"
+hash = "a74a9f9d1982965eb006994e5d50428851281e32f04a1276d2ec4c9e1e244e51"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "7055eb8ce1d8f392f39fd9e3723032ef8371ea8a65f53d992d04ef7d4e3a0a08"
+hash = "c0e6ff3c64fe27a7905a85485118265596ec8d28bb362b9e994494ba369ac58b"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4f5c157c26b5a33265632a90d5f580e29070fb13826b7154184d4c288a2b9753"
+hash = "49a945df6c416c4a1b326f39c97323041920b559619eb69bf19c2e8535711444"
 metafile = true
 
 [[files]]
