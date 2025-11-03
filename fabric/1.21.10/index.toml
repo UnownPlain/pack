@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2e2b1882bf6f775dc9f91bb235528633e5d06afcff3a7991c03cea7bb129170e"
+hash = "059bd0d6c94b32b2ac4890639a20dacf6081142caaa234399c40679ef9840eb2"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "f93914e7a8a2de83ac54327047602b701880001e496aff39155e472b013127e9"
+hash = "f7efd8724bd5aa92c99ddcf6f53e1371cbcda74bf291c557b411cb198823ebb9"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "e570f2284d94889aa091327cca3264ea6c637dc01aa4c2a3e5f06c437a09a8a0"
+hash = "9cdfe1aabacf0ecb757ed62251e16e97a1de6491cfcd3538b0c3a1c744cb826a"
 metafile = true
 
 [[files]]
