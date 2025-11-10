@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "b6acdf8c5760b3e8f4c772d300f19ba45db349ab0a014e5652878cd87354837e"
+hash = "cbd182feec72636573a2d0a2ba1a07bd108df55a1ea92de813a9b7675ca86542"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "55a5fbe541cb78318d4a2c177ad47e3fd65127d1d198fb9a8f4d49d18d9d7027"
+hash = "9d89e86278be911668dd2215817a6e56b833c0453899c3c741ef7e91a58acad3"
 metafile = true
 
 [[files]]
