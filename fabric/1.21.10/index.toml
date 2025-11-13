@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "70120d013e17bec9b48c0f77528643fcd0887f623b9b2bf6568b355cc69f3627"
+hash = "5c948d5c926d5f4da14e033c96cbb301ac3d2c02ae4291ccd6a072194e1e9d28"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "e7c1cce42df3843aea82c5cde390584b8aac4d7f499b73589938e0009ba9fc25"
+hash = "571ba77632efa87408447990598538c8801554114e961d7070080caf88b6cea3"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "a0ab28136008c291b4dfa2d8bcc37a9fea254b79bdae35d0006a29065bb38864"
+hash = "08b0f7e09f08c0cb0d01e8174564c7219c8fc62edb73e1b1b3d3758efee004cf"
 metafile = true
 
 [[files]]
