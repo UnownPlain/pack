@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9cdfe1aabacf0ecb757ed62251e16e97a1de6491cfcd3538b0c3a1c744cb826a"
+hash = "88e683448d77f8938d411f7b5065ba19cde524fb92f42e20f92c3d4350da3f7e"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ce3c8c8dd73fd279e68704fbac264549bac3e46960e4843ef10465c933b68a3d"
+hash = "b3e16576bf13adb69d38808052fb7fa0e2cced909a9e9257333f8562c20b3a55"
 metafile = true
