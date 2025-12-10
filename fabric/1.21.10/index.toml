@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5dd6666f515dd04d6425a20296c495f07d1f96c10365d956ab009bdbd0966a36"
+hash = "0d2ba295afd308449f83a1301758f1940203a624107ff6a0112254b76d1b1cc3"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d302620895cb7bbed2c35a6d4e9a7899e5fa927e7324a2a9367e014cf7248df4"
+hash = "e20e5d712ff7804cb4dd91cb2352f032b6e779be5650ec17b51da42700ce0ab0"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "07a4c33f7c68cc5b2f45bdbf3105f16b1ee973a6d3d4d4f63da2f04316b7cb3e"
+hash = "864a60e8a63b1d5840db5913679988ce8a03c193ba448d60e07bca3f390cd8c0"
 metafile = true
 
 [[files]]
