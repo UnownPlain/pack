@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "bfa09a3c2b9f1c6eed34bbbc7790cb24f4e8505fb77827e6ebc843021a37af5d"
 
 [versions]
-fabric = "0.17.2"
+fabric = "0.18.1"
 minecraft = "1.20.6"
 
 [options]
