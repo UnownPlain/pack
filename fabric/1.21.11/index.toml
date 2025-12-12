@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "697873ffa46fdfc7b67e2a622c5ec719f3b25036bfbd82cc3937856011c257f4"
+hash = "b220d7d18bfdd8ffd1403070806b8505644f836c731396fa8df61daaca4e5e61"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7badaecc16114f282533179131119a93fc9554a4e96df051d802c7e2996ffedc"
+hash = "aa42f14a74a68d10311edff10e3bbd717ffd15bfc238d7492e40c000be4195ac"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "571ba77632efa87408447990598538c8801554114e961d7070080caf88b6cea3"
+hash = "3cdceb4f360505f874eeaf791f5f42c0cff12504393495da5ef48d6fc0b5a1cb"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c72e4526a41a667c297a51a360c988cc2456e7848eed8af2d5631e73e4565fd0"
+hash = "a042ae14c9f48006d9560e24c55d4d744e922a7e8254365da7c5adb45ec6167d"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "775a26f816dc8a5aabf1901775c01f5d942b5f48bbe37f963a8989dc54179999"
+hash = "9c15d70a164a6e16b09212b6a24d097003f86bb595634a66c04b9a31dff38ff4"
 metafile = true
 
 [[files]]
