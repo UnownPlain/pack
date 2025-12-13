@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4f7aa45e2bb10022e5ff12b3d456d241863095715750ea564e1b4a0b6e7844aa"
+hash = "46efbb9055ae4037827d3f4126eb7c44e6f79ba7c13f50b61e6204b6bd3154bd"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d38b6acce31ad66c4b598105300fcc0baed729c1f6ed85bc6c65007747038336"
+hash = "c2e6c8559b3209dd454af2816762957b8b6f82c0a945fb9fd874ed91ce60f968"
 metafile = true
 
 [[files]]
