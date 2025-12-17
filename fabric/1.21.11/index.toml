@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "c2e6c8559b3209dd454af2816762957b8b6f82c0a945fb9fd874ed91ce60f968"
+hash = "cf468c9e1eeb13e14838bf79f5ecc9f62ac728cb2077326c5748caaa0b59fae9"
 metafile = true
 
 [[files]]
