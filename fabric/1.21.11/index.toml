@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "aa42f14a74a68d10311edff10e3bbd717ffd15bfc238d7492e40c000be4195ac"
+hash = "5027860c28349c312fc12c2f40341371c9d6ab6e7b2503e73b53010986957472"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a042ae14c9f48006d9560e24c55d4d744e922a7e8254365da7c5adb45ec6167d"
+hash = "f2dfaf266a6a90628d80d65c164cdd7069fbe39b552aee2a3ecc6ac60b7356e8"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "cf0be70ef535974acd1a7b7fb1186f744df9fff48689c7af4de859459ac595c5"
+hash = "054ca565c8dbcca9b9d1f742152fa2f32f61a0533872f8a541321eaa10ea7bc5"
 metafile = true
 
 [[files]]
@@ -107,17 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "524dd93edc8b4c1c7e22191c6a2088cbc01899f97a0170423818da47627e648b"
+hash = "93ded278165c73d696617c4abbd17710ef9221a3395f271ec701736cb1a3d9e8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "fc60e48fd86a17e3abb4f9ba0453707de7fd0353bad40bef804d734d2f370b38"
+hash = "d7865530a6280a8c865489869fa52f23a2024ca798db42bef9839b2e56bf2288"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "fe7ab8504ea132958899a00cc9ea262c6537a56fee5691ab7a1cba4d0b31bdf5"
+hash = "a009299cb79e3e4d34453f0ba6e82ef36eb96781f4a3af5d2965c20efed77037"
 metafile = true
 
 [[files]]
