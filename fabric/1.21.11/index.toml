@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "b1bd13479d82679bc801e20f281ef21a1f45d0b36289a7220153e1da3c1ef603"
+hash = "c3aaeb7dae077e8fc5fa7c987f800c1498c0315224e0d8b052807cf581ec50bf"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "799b155235113d4145a6ce6267240c632a2a83fd5f84113d023b07c9bac3cbed"
+hash = "761daf9a06eaaadb68a2c13c112d9ba1c7761de907663f20ec778c44c48a758b"
 metafile = true
 
 [[files]]
