@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "054ca565c8dbcca9b9d1f742152fa2f32f61a0533872f8a541321eaa10ea7bc5"
+hash = "5d627fa3928aef40e41c0930c3b59b4a9401ff53f57dc48c75fbebde9c4a4cce"
 metafile = true
 
 [[files]]
