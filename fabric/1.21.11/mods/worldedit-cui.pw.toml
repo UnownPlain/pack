@@ -1,16 +1,16 @@
 name = "WorldEdit CUI"
-filename = "WorldEditCUI-1.21.10+01.jar"
+filename = "WorldEditCUI-1.21.11+01.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NSLJJooQ/versions/GLRO8pvm/WorldEditCUI-1.21.10%2B01.jar"
+url = "https://cdn.modrinth.com/data/NSLJJooQ/versions/SD1ZtHLA/WorldEditCUI-1.21.11%2B01.jar"
 hash-format = "sha512"
-hash = "50e01d3149cea3d73ffdca011ceb1e76a99ca8d2f38f43d1657805687a02f7b485a5bb5ccad4d2307cc71230accac38dc7b56cb696f1d8daac210b0e57d9fd35"
+hash = "0b81809767c19b17b8f3f388d9fd8d092fd2602215e16fcf5b64cec7af6082dc261148e9817b2a4b3e1501b2ad243abf1870990ab052918e65503a650e84e33e"
 
 [update]
 [update.modrinth]
 mod-id = "NSLJJooQ"
-version = "GLRO8pvm"
+version = "SD1ZtHLA"
 
 [option]
 optional = true
