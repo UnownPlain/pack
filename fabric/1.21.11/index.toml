@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "cf468c9e1eeb13e14838bf79f5ecc9f62ac728cb2077326c5748caaa0b59fae9"
+hash = "b4953ee08a8310d56b6141869ba96f11dbcc56bffd95ec8bb4a98559eef339c4"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ff9775d72056b3327fb7e9c260e8275db9310a094f85c6b81399f7f5f7f0926c"
+hash = "90a3bb09a18d7b42704b6aa78a20d6a5721a69a13bcc2b70e3f02427433fd0b2"
 metafile = true
