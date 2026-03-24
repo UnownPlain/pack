@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "fbbb2fb64ef4cb44e825d114c9c975d6fd1e8952abd32731eec07d975838649a"
+hash = "ff8049e6a98c9ae654cbb798d0fa13150cbded246658c163da8e07c0f183917b"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2e8468d22f9593d0d346570d1a9b18af4856ddc422b16ae07a4c84b6c5cea9a9"
+hash = "c213a728a40e663288235ce1d56ee7fa40ab839471a2d87a47c3f4a0cbe7dbf4"
 metafile = true
 
 [[files]]
