@@ -78,8 +78,10 @@ jobs:
         if: steps.commit.outputs.changes_detected == 'true' || inputs.release
         run: |
           gh release delete Modpack --yes --cleanup-tag 2>/dev/null || true
+          sleep 5 # cli/cli#8458
           gh release create Modpack \
             --title "UnownPlain's Modpack (Fabric)" \
+            --notes "Latest Modrinth pack files" \
             --latest \
             fabric/*/UnownPlains-Modpack-*.mrpack
         env:
