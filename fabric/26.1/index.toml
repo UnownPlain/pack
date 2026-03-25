@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "9aaf78da88ade519ad0f51c482b1142d6a6e0eccbe4de98385f3d1e35e9cb0b8"
+hash = "ce217777e3884c1d5e1bea0a874f796670ef6b90fa8e2acdd4f03a927248c132"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "b6912dd376863fd993cee531fab0bbe6e99369d08f6b85905eda3d9cce01b939"
+hash = "71c421ba3cd3766a17e21ecc562b00e3c7a385c960f6f758fdd3c73001c1c4a4"
 metafile = true
 
 [[files]]
@@ -72,17 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "66ef0267fe331ad9446091c88dc28c8c0f2c4876d8f37864af271f2f0310fb7c"
+hash = "0f51ba7147b7775eab704d7307f9cc6258ee47d0efbbe62236ba1a30052f4adc"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "c3158da104c57df84b8b76c121d428c0a28d512b1e789f2ca1d24b474f071dfb"
+hash = "152ce5ca3d1a13bcc195c804da60820591b825d1e234632fa1f7be0810b6e4eb"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "f3a2a18302e3ecf68531b1c430ce2cf5239d18a5ae633513dc51d617bd42c8bc"
+hash = "8eb470bc952b0e05b00819fa104860a91edf9f0045a28a16d3f3e080018109af"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ce07fc310311d4db1c9b67c700d28b7cf80398b42eef19722fada7b435e49bb8"
+hash = "df0888a0ca0173f1b26ec7c79f908e8bba698301041c4d6c43c0ef38f8aef6c3"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "be0dd3a2350704784a98646d662a6fe1b9541317f15b2bb221a720272e9792f0"
+hash = "bda0105bec1f302a204fc74a1969ff47aa749c83b4ecf8efb3a05d7a3fc6c485"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "53ddd572d1e24bb3b488de857f7583fe1dbd7c45b399b406c0c93c01994e7b1d"
+hash = "f10c7fa570843dcc1f4481eb956fc8c77b4fc2c3bd8b2cbab485a95c1b632c5d"
 metafile = true
 
 [[files]]
