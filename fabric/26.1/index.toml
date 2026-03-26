@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b013ea45b312edf7707a4baf013590c2de8eb8e5ae8edf415416b3387b6ac500"
+hash = "d2a6355a463f5c00cb994f5faa9f4d37f4b2f89032c75e1176b9c07613836702"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0566703e4e26c1ea385e6125a7170313a630ff20b85152a43a364f62964424d4"
+hash = "84cc673502ed83cadb5a5d63d596e5765c345ff700bc34b089df025c1717a5e0"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c213a728a40e663288235ce1d56ee7fa40ab839471a2d87a47c3f4a0cbe7dbf4"
+hash = "2db40ebb0f18c4a7447269647edbae8178e87c3c289351b4791fb476aa701a22"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "df0888a0ca0173f1b26ec7c79f908e8bba698301041c4d6c43c0ef38f8aef6c3"
+hash = "8f6bedc545f4b613bb624ad96b4793c348d9130fe9b134d6efcb1890cd64cb84"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "90a3bb09a18d7b42704b6aa78a20d6a5721a69a13bcc2b70e3f02427433fd0b2"
+hash = "170aaf142af3701ed738fe497f4ae2992964b93cda33b31e2ac048337b327c11"
 metafile = true
