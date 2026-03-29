@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "71c421ba3cd3766a17e21ecc562b00e3c7a385c960f6f758fdd3c73001c1c4a4"
+hash = "4162ab60f5546fca21852061107bf508cd146d4d985386017425dc13d89ff763"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "152ce5ca3d1a13bcc195c804da60820591b825d1e234632fa1f7be0810b6e4eb"
+hash = "ee371b001184204d56fe1998880ca3cdc73b3dd7045b9b726c9229d3ca4366db"
 metafile = true
 
 [[files]]
