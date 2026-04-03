@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1afe073a401d8f49f023168ea5c30fdfe5ad291ef01136b18c6c4961baa536ef"
+hash = "ed86e6869ca502a1c06bd11a1dcf191c042f5774c65b538dd63570cf22201f0b"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4162ab60f5546fca21852061107bf508cd146d4d985386017425dc13d89ff763"
+hash = "52b6b5cb1ad6ba8a60a0d536a338aa3c55babd6a80b1779bebd88ce0177ab807"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "ee371b001184204d56fe1998880ca3cdc73b3dd7045b9b726c9229d3ca4366db"
+hash = "567957a4469f96330eb06b2057eeddcaf6c0745f9186354d20878c3156be3898"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8eb470bc952b0e05b00819fa104860a91edf9f0045a28a16d3f3e080018109af"
+hash = "0c4013c2a70d42c3be26b7f838eb475c83628f6c8096b03542b1e7dcd7931641"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "f10c7fa570843dcc1f4481eb956fc8c77b4fc2c3bd8b2cbab485a95c1b632c5d"
+hash = "176c9ba675712fcde088eb6153785eb4f922e23688d3010b6ada86444e16294c"
 metafile = true
 
 [[files]]
