@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fullbright.pw.toml"
-hash = "c3aaeb7dae077e8fc5fa7c987f800c1498c0315224e0d8b052807cf581ec50bf"
+hash = "977c1b98f5d074c7635121378e95f385b102081c7f26a79b38d840e4852d31f2"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "bda0105bec1f302a204fc74a1969ff47aa749c83b4ecf8efb3a05d7a3fc6c485"
+hash = "fd0ca73dd3da3220707877218266e284dd2b1c4e6d72c4d2dc1d4c8b07658a01"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "efd77ba58dbef9ebafa406568faf332784c83600265d8978bfbd19bac0017215"
+hash = "f20a098fe72e39c980c2f8c454750a2585b5d27fce1a48861256191cd1797cc5"
 metafile = true
 
 [[files]]
