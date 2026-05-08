@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "ebc09edf8026fa3819985c9e7428ced1dab34caa4febcb79a334e2c07c826016"
+hash = "e2a3e03a92c33b3eedfe21818e950eafeb6e79ddb7f5277b3da9ec8caa294349"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "047dee400f80fd6de9f721b49a0c4c5dd631ecb5a7952cca8ab5ef2dc2db2d44"
+hash = "456f1b2e9717ec1eb9e48edebe07e242028cf9f9ea68f3e41448c764a9d30eb3"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "37f6988042edea1ceb67a4fedc68ea511301a9789176681d44d0d9a965ed68c4"
+hash = "4ad5bf741af5cc48f43c25b3fcd6e058c0720e6a6cc5a2ca5d9c2c591888b34a"
 metafile = true
 
 [[files]]
