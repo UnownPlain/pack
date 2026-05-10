@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "8f6bedc545f4b613bb624ad96b4793c348d9130fe9b134d6efcb1890cd64cb84"
+hash = "72e27c5b84463776f19951c41295304e09857b2ad4d6f8027b69139decddb19c"
 metafile = true
 
 [[files]]
