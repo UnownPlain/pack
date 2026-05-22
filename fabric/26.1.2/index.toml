@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "dc61ac730f280d6cf0699000ae1a07fdad3f3080de8030390f87b10b21e778bf"
+hash = "e363d036bbdc9b085ca59aec0fc08a928f4b061a078bd6383adf701239a3492e"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "8f3fba2e5933bcdad2f082b9435d32e0b7e3ff0b734fc0ac206453d4e2fa8a10"
+hash = "f100aea1bf0724c0cef9f3109d2c40974551103a3ff8d6e8eaf55808388b2529"
 metafile = true
 
 [[files]]
