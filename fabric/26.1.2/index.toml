@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "995c865f71dabbe463f06bb649cf7a73459064dd0e6b1b4609815d0981802ee2"
+hash = "07ddc8c39a13534f0af4a00e88316c5797f3aaf2e331869c77a243b36b2ebbee"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cc6cf894f6b9ea9ece49608b9c8dfb042516bbe04e0c12b6823814c8a5cff3c1"
+hash = "b45beff34eb75f697af0ea7d63fc83c3385ec085bfb8582f528b63c76ea2897b"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2579b01febfbf9f0a814f1724f47a64b9ad2b50a2958b9adef92f4cfa41ee434"
+hash = "483fe5e681d070c93da19391716518e8baf8ba6c9d2d57b90fb6bc91bdfbef0d"
 metafile = true
 
 [[files]]
