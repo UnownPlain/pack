@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "483fe5e681d070c93da19391716518e8baf8ba6c9d2d57b90fb6bc91bdfbef0d"
+hash = "599cd9edca0ce0af050e811884910e0d91e9980b0cc40218fa6857d78078069c"
 metafile = true
 
 [[files]]
@@ -127,5 +127,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e0cd32701864365da2b2f3ec7c227ec261cea77a30c3e05c334c1d0b07c897c7"
+hash = "eeda5c874f0e06a2485403ebd3e7cd8a33d4508df17935280d4b407a9968e911"
 metafile = true
