@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "e2f80888446c45f222bd1de80d4e1f72894abcd2d2ac815ff9b7d93aff9b22ad"
+hash = "b36c1a296554487403b8ded1beeee58653d4318ad3861856413ca7f488363884"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a515178c6470b4f44ab93b2a27ad71402b23566fafa27f14a55b8ae5b9301393"
+hash = "050aa4d76a139e54f8e4bba54c8ecce547e53e743d5cd1f9a232f90d4e4c2362"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88dd4d9e58c3634590e43bfb9c35249a48eaabf965f607069b2e759e431a4db2"
+hash = "d961445896d979c18903179021e0790610ed72712315021fc628cbb8ea6eb5b3"
 metafile = true
 
 [[files]]
