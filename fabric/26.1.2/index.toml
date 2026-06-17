@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "907148008fe18e48c96339216e6b702c52e363116d9aa786255958437751b740"
+hash = "2b030256b9a836a71a079d5d17447a38e36118349949c49d029a47d82e674daa"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "599cd9edca0ce0af050e811884910e0d91e9980b0cc40218fa6857d78078069c"
+hash = "6f3a8261c8e52928003998e81321c11ecbd7fb549939bdf23f27a484053ee88a"
 metafile = true
 
 [[files]]
