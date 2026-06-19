@@ -1,16 +1,16 @@
 name = "EntityCulling"
-filename = "entityculling-fabric-1.10.3-mc1.19.4.jar"
+filename = "entityculling-fabric-1.10.4-mc1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/RKHK6dDf/entityculling-fabric-1.10.3-mc1.19.4.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/pyHoKwsY/entityculling-fabric-1.10.4-mc1.19.4.jar"
 hash-format = "sha512"
-hash = "1787e1d49608b13bae517f6cb70a1098e040b2c5d8cda1bb098f8348331d58886ed377bb378049de6aa6c076a90d08e43437e754cc7ca5f58c3f428702b130c9"
+hash = "e93256b94744f08a3a1816807792fb379b4b23781423b7bd6c66b7180f1198c5c0009e9e89147029b5e9c6a6a1afc12326aa2f4602b6c872b1f473c62f0832b6"
 
 [update]
 [update.modrinth]
 mod-id = "NNAgCjsB"
-version = "RKHK6dDf"
+version = "pyHoKwsY"
 
 [option]
 optional = true
