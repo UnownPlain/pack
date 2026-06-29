@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "2a950b5ca8dd83eab86d9dccb5a4015b84d4410aa63e0c2368a2be6b131a561f"
+hash = "5cdd49bb48cf2794a7d02ae141662d41bb0b668cd96fe56ffe8fc838f352d208"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ad412a5e479d0c5c9231fc1f58cd3a5b2670649e3c412bf92550b79948e88571"
+hash = "72c1bf30b6986f08325dc0e2c782c2ae3fef82b86f71a792f6f07ed7beaea1b0"
 metafile = true
 
 [[files]]
