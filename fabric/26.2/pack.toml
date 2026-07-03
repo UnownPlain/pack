@@ -1,6 +1,6 @@
 name = "UnownPlain's Modpack"
 author = "UnownPlain"
-version = "26.1.2"
+version = "26.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "e1deeadaa5c1c3e610e61610bff7ee1e42327c1b934a8e73150d43c7b4ea611e"
 
 [versions]
 fabric = "0.18.4"
-minecraft = "26.1.2"
+minecraft = "26.2"
 
 [options]
-acceptable-game-versions = ["26.1.2"]
+acceptable-game-versions = ["26.2"]
