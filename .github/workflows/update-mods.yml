@@ -19,7 +19,7 @@ concurrency:
 jobs:
   update-mods:
     name: Update Mods
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-26.04-arm
     permissions:
       contents: write # Required for GitHub Release
     steps:
