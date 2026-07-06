@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "567b0255fcf9c07afcb44fb697bda885f7fbbfc4b91ed1c444bd5130db4b471a"
+hash = "4fe6575803d998e54e7063f1d3357e8e3f97db69abad8627108dfa1f24b220ee"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a7f7ea8c13be96a2f79ac71a3c02235476d60c862dbd1f8bb0a5e549a5b7c6be"
+hash = "bf9455d51614fb723b4d3a51b6db85d7d938f5968100fe6e554025f3273f3eec"
 metafile = true
 
 [[files]]
