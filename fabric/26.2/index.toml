@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e418a4f597c8ff7ac6cd023e73ba537294d72bb1adbb681455b964eaace5cf76"
+hash = "4ef11f93b229b69df8fbe54eb792b7edd7496840e0faf9f22cc58e2b903444ba"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4d8411cc28a29fc3b1efd6117ccc4a85816d8d3afe5a74e9a1551e005402fa3d"
+hash = "47804a38e73660c97b204a8163a560875bfaba32daf52e9710e4b56976da41fd"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit-cui.pw.toml"
-hash = "49cd70d201eeaae8207cce54637e233bb54c4d655f903567d14db4bf25e01bc3"
+hash = "ac1280286c32df72a80d30a6d7d830201459381fda0d6480d3520893ee9386aa"
 metafile = true
 
 [[files]]
