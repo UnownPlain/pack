@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "db4830942882abb35e50d2152011c25a0508721d19ef8077b7058f1e1ea1bec3"
+hash = "e8dbacbcd5fe248adfb8a647c665cf03164d118eef0232d06075f0684dcfd415"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "47804a38e73660c97b204a8163a560875bfaba32daf52e9710e4b56976da41fd"
+hash = "14f3cf840a2675dc483f5aae44048d867f1e68eb2a81ed7a653f81995b49c832"
 metafile = true
 
 [[files]]
