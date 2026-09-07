@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "316cfb0a490422aa6e3367418564bef00a667a94056dc09feef6babbf84a5d69"
+hash = "b4b2cbf4a6e1ad9726db2c44653d7d5e7cbacdc6e150d5e67aa1f3198ed81bbb"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "9b59fb27a1a1ee35f8be61b21ccc76c9236ee9d9e5cec216de07efb384def4ce"
+hash = "7899070decff450aa716cfb0b3f924965fdad699c3dfbf971de9b05506a98c93"
 metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "9419c6ab434699edeb5735e8c498732fa941ce58645b00c35c98e79ab76d1e9e"
+hash = "e96d40d68af2e7b8caf3ea4708baf07bbc43c20000a570550c09a7b908afb84b"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cc13a61a46f63cdb52ac431ec78a1bbfd5a2e13f84691daef6f3467fceb6c4cd"
+hash = "1674a32518bd6fee4422dbc30129602d4b4de782eb69588803cafd469227b921"
 metafile = true
 
 [[files]]
 file = "mods/tweakeroo.pw.toml"
-hash = "9977fa6d9339d633e24327b1fc076a36c9e297eab2416eb1dccb772f43658f95"
+hash = "ad84d8270b2a4bcbfdbc4b8a7776477e3a7885d3fcac47d30f4a68d1b50391d7"
 metafile = true
 
 [[files]]
